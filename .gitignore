@@ -1,1 +1,48 @@
+.DS_Store
 .claude/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Node / frontend
+node_modules/
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+
+# Large binaries (career archive — keep local, not in git)
+*.mov
+*.mp4
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.psd
+*.pdf
+*.pptx
+*.xlsx
+*.xls
+*.doc
+*.docx
+*.mbox
+*.eml
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Large data folders (local-only, not versioned)
+00-Incoming/Man-experiences/
+00-Incoming/ZAN/
+knowledge/Man-Learning/
+88-outgoing/sent/
