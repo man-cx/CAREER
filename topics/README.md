@@ -11,4 +11,4 @@ Topic-based research, drafts, and converted files.
 
 | # | Topic | Description |
 |---|-------|-------------|
-| | | |
+| TOPIC-001 | [CHINT Marketo RFP — GenOptima](TOPIC-001-chint-marketo-rfp/README.md) | RFP response for Marketo B2B global rollout, deadline Jun 8 |

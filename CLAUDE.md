@@ -29,9 +29,9 @@ This is Man Li's **career management workspace** — a project management worksp
 | End client | [[CHINT]] (正泰) | $64.5B electrical group, 22 countries, Marketo + Dynamics CRM |
 | Prospect | [[GenOptima]] (Leon Dai, CEO) | Singapore-based, AI/GEO marketing |
 | My role | Solution Architect | Subcontracted through GenOptima, leading a fresh team member |
-| Deadline | 2026-06-08 | RFP proposal submission |
+| Deadline | 2026-06-08 | RFP proposal presentation (dry-run Jun 5, proposal complete Jun 4) |
 | Deliverable | `88-outgoing/proposal-chint-marketo-v1.md` | 14-slide keynote, motion-centric automation |
-| Issue | `issues/ISSUE-001-rfp-genoptima-marketo.md` | Status: in-progress, priority: high |
+| Topic | `topics/TOPIC-001-chint-marketo-rfp/` | Status: in-progress, priority: high |
 
 ## Key Registries
 

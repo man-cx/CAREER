@@ -30,4 +30,4 @@ Project and operational risks. Each risk is a standalone file.
 
 | # | Risk | Status | Impact | Likelihood | Opened | Owner |
 |---|------|--------|--------|------------|--------|-------|
-| | | | | | | |
+| [RISK-001](RISK-001-limited-availability.md) | Limited availability + role mismatch | identified | high | high | 2026-06-02 | Man Li |

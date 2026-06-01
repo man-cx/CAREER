@@ -21,6 +21,12 @@ Company profiles and project registry — single source of truth for all compani
 |------|---------|----------|
 | CHINT | 正泰 (CHINT) | CHINT-MARKETO |
 
+## Competitors
+
+| Code | Company | Notes |
+|------|---------|-------|
+| NCS | NCS (恩士讯信息科技) | Incumbent — delivered CHINT Marketo Phase 1-3 |
+
 ## Partners
 
 | Code | Company | Relationship |

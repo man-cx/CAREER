@@ -9,14 +9,16 @@ prospect
 - Client location for current engagement: Shanghai
 
 ## Key Contacts
-| Name | Role |
-|------|------|
-| Leon Dai | CEO |
+| Name | Role | Phone |
+|------|------|-------|
+| Leon Dai | CEO | — |
+| Alex | Account Manager | 13501669353 |
+| KYM | Presales |
 
 ### Leon Dai — Background
 - **LinkedIn:** [linkedin.com/in/leondai](https://www.linkedin.com/in/leondai/)
 - **Past roles:**
-  - General Manager, Consumer Products Group & Digital Marketing Practice — NCS Group (Aug 2023 – ?)
+  - General Manager, Consumer Products Group & Digital Marketing Practice — NCS Group (Aug 2023 – 2025?) **← NCS is the incumbent on this CHINT account**
   - Head of Sales, Digital Experience China — Adobe, Shanghai (Jul 2021 – Jun 2023)
   - Head of Customer Experience — SAP
   - Sales Director, hybris — SAP
