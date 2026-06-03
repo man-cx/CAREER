@@ -41,10 +41,10 @@ This is Man Li's **career management workspace** — a project management worksp
 
 `00-Incoming/` is a **temporary staging zone**. Files dropped there must be processed promptly and then moved to the shared archive.
 
-- **Shared archive:** `~/Documents/_ingested-work/CAREER/` — the permanent, cross-project SSOT for all raw ingested files
-- **Workflow:** File lands in `00-Incoming/` → AI extracts info and updates repo files → original moves to `_ingested-work/CAREER/`
-- **Never delete originals.** The `_ingested-work/` copy is the audit trail
-- **Never write processed output to `_ingested-work/`.** That folder is read-only archive — output goes to this repo's own folders
+- **Shared archive:** `~/Documents/_ingested-career/` — the permanent SSOT for all raw ingested files from this workspace
+- **Workflow:** File lands in `00-Incoming/` → AI extracts info and updates repo files → original moves to `_ingested-career/`
+- **Never delete originals.** The `_ingested-career/` copy is the audit trail
+- **Never write processed output to `_ingested-career/`.** That folder is read-only archive — output goes to this repo's own folders
 
 ### Ingestion Routing — Which Content Goes Where
 
