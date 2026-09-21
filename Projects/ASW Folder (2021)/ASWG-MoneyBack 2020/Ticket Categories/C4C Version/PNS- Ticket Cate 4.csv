@@ -1,0 +1,502 @@
+﻿<Category ID>,<Category Type>,<Parent Category ID>,<Language1>,<Name1>,<Description1>
+CA_1,1,,EN,網店 eStore,網店 eStore
+CA_2,1,,EN,易賞錢 Moneyback,易賞錢 Moneyback
+CA_3,1,,EN,門巿 In-store,門巿 In-store
+CA_4,2,CA_1,EN,一般 General,一般 General
+CA_5,5,CA_4,EN,A1 更改客戶資料 ,A1 更改客戶資料 
+CA_6,5,CA_4,EN,A2 迎新優惠,A2 迎新優惠
+CA_7,5,CA_4,EN,A3 客人回覆,A3 客人回覆
+CA_8,5,CA_4,EN,A4 要求重印帳單,A4 要求重印帳單
+CA_9,5,CA_4,EN,A5 追進度 ,A5 追進度 
+CA_10,5,CA_4,EN,A6 搵香港同事 ,A6 搵香港同事 
+CA_11,5,CA_4,EN,A7 欺詐個案 ,A7 欺詐個案 
+CA_12,5,CA_4,EN,A8 測試訂單 ,A8 測試訂單 
+CA_13,5,CA_4,EN,A9 意見 ,A9 意見 
+CA_14,5,CA_4,EN,A10 錯誤向百佳投訴 - WTC/FTR/others,A10 錯誤向百佳投訴 - WTC/FTR/others
+CA_15,2,CA_1,EN,一般查詢 Enquiry,一般查詢 Enquiry
+CA_16,5,CA_15,EN,B1 手機App查詢 ,B1 手機App查詢 
+CA_17,5,CA_15,EN,B2 付款查詢,B2 付款查詢
+CA_18,5,CA_15,EN,B3 其他 ,B3 其他 
+CA_19,5,CA_15,EN,B4 易賞錢積分查詢,B4 易賞錢積分查詢
+CA_20,5,CA_15,EN,B5 查詢貨品 ,B5 查詢貨品 
+CA_21,5,CA_15,EN,B6 帳單查詢,B6 帳單查詢
+CA_22,5,CA_15,EN,B7 送貨查詢,B7 送貨查詢
+CA_23,5,CA_15,EN,B8 VIP 專貴會員推廣 ,B8 VIP 專貴會員推廣 
+CA_24,5,CA_15,EN,B9 推廣優惠查詢 ,B9 推廣優惠查詢 
+CA_25,5,CA_15,EN,B10 網站操作查詢 ,B10 網站操作查詢 
+CA_26,5,CA_15,EN,B11 銀行推廣優惠 ,B11 銀行推廣優惠 
+CA_27,5,CA_15,EN,B12 贈品查詢 ,B12 贈品查詢 
+CA_28,5,CA_15,EN,B13 關於抽獎 ,B13 關於抽獎 
+CA_29,2,CA_1,EN,大量訂購 Bulk Purchase,大量訂購 Bulk Purchase
+CA_30,5,CA_29,EN,C1 查詢跟進情況 ,C1 查詢跟進情況 
+CA_31,5,CA_29,EN,C2 貨品 ,C2 貨品 
+CA_32,5,CA_29,EN,C3 禮券 ,C3 禮券 
+CA_33,2,CA_1,EN,付款問題 Check-out,付款問題 Check-out
+CA_34,5,CA_33,EN,E1 App - 未能以AE卡付款 ,E1 App - 未能以AE卡付款 
+CA_35,5,CA_33,EN,E2 App - 未能以ApplePay付款,E2 App - 未能以ApplePay付款
+CA_36,5,CA_33,EN,E3 App - 未能以Credit卡付款,E3 App - 未能以Credit卡付款
+CA_37,5,CA_33,EN,E4 App - 未能以Debit卡付款,E4 App - 未能以Debit卡付款
+CA_38,5,CA_33,EN,E5 App - 未能以八達通付款 ,E5 App - 未能以八達通付款 
+CA_39,5,CA_33,EN,E6 App - 未能以支付寶付款,E6 App - 未能以支付寶付款
+CA_40,5,CA_33,EN,E7 App - 未能以銀聯卡付款,E7 App - 未能以銀聯卡付款
+CA_41,5,CA_33,EN,E8 App - 未能建立訂單(已收錢),E8 App - 未能建立訂單(已收錢)
+CA_42,5,CA_33,EN,E9 App - 未能建立訂單(無收錢),E9 App - 未能建立訂單(無收錢)
+CA_43,5,CA_33,EN,E10 App - 未能付款,E10 App - 未能付款
+CA_44,5,CA_33,EN,E11 Website - 未能以AE卡付款 ,E11 Website - 未能以AE卡付款 
+CA_45,5,CA_33,EN,E12 Website - 未能以ApplePay付款,E12 Website - 未能以ApplePay付款
+CA_46,5,CA_33,EN,E13 Website - 未能以Credit卡付款,E13 Website - 未能以Credit卡付款
+CA_47,5,CA_33,EN,E14 Website - 未能以Debit卡付款,E14 Website - 未能以Debit卡付款
+CA_48,5,CA_33,EN,E15 Website - 未能以八達通付款 ,E15 Website - 未能以八達通付款 
+CA_49,5,CA_33,EN,E16 Website - 未能以支付寶付款,E16 Website - 未能以支付寶付款
+CA_50,5,CA_33,EN,E17 Website - 未能以銀聯卡付款,E17 Website - 未能以銀聯卡付款
+CA_51,5,CA_33,EN,E18 Website - 未能建立訂單(已過數),E18 Website - 未能建立訂單(已過數)
+CA_52,2,CA_1,EN,印花問題 eStamp Issues,印花問題 eStamp Issues
+CA_53,5,CA_52,EN,F 漏/錯印花 ,F 漏/錯印花 
+CA_54,2,CA_1,EN,系統問題 Systems,系統問題 Systems
+CA_55,5,CA_54,EN,S1 App - 尋找貨品失敗,S1 App - 尋找貨品失敗
+CA_56,5,CA_54,EN,S2 App - 非常慢或出現Error ,S2 App - 非常慢或出現Error 
+CA_57,5,CA_54,EN,S3 App - 購物車問題,S3 App - 購物車問題
+CA_58,5,CA_54,EN,S4 App - 未能揀選送貨時間,S4 App - 未能揀選送貨時間
+CA_59,5,CA_54,EN,S5 App - 未能付款,S5 App - 未能付款
+CA_60,5,CA_54,EN,S6 App - 帳單顯示錯誤,S6 App - 帳單顯示錯誤
+CA_61,5,CA_54,EN,S7 App - 其他 ,S7 App - 其他 
+CA_62,5,CA_54,EN,S8 Webiste - 尋找貨品失敗,S8 Webiste - 尋找貨品失敗
+CA_63,5,CA_54,EN,S9 Website - 非常慢或出現Error ,S9 Website - 非常慢或出現Error 
+CA_64,5,CA_54,EN,S10 Website - 購物車問題,S10 Website - 購物車問題
+CA_65,5,CA_54,EN,S11 Website - 未能揀選送貨時間,S11 Website - 未能揀選送貨時間
+CA_66,5,CA_54,EN,S12 Website - 未能付款,S12 Website - 未能付款
+CA_67,5,CA_54,EN,S13 Website - 帳單顯示錯誤,S13 Website - 帳單顯示錯誤
+CA_68,5,CA_54,EN,S14 Website - 其他 ,S14 Website - 其他 
+CA_69,2,CA_1,EN,退款 / 換貨 Refund / Exchange,退款 / 換貨 Refund / Exchange
+CA_70,5,CA_69,EN,R1 重複收費,R1 重複收費
+CA_71,5,CA_69,EN,R2 不尋常訂單 ,R2 不尋常訂單 
+CA_72,5,CA_69,EN,R3 折扣問題 ,R3 折扣問題 
+CA_73,5,CA_69,EN,R4 取消訂單,R4 取消訂單
+CA_74,5,CA_69,EN,R5 客人要求,R5 客人要求
+CA_75,5,CA_69,EN,R6 退款情況查詢 ,R6 退款情況查詢 
+CA_76,5,CA_69,EN,R7 無收到訂單確認 (NOC),R7 無收到訂單確認 (NOC)
+CA_77,5,CA_69,EN,R8 運費 ,R8 運費 
+CA_78,5,CA_69,EN,R9 系統問題,R9 系統問題
+CA_79,5,CA_69,EN,R10 運輸/倉存問題 (save a/c),R10 運輸/倉存問題 (save a/c)
+CA_80,5,CA_69,EN,R11 eVoucher退回原先付款帳戶,R11 eVoucher退回原先付款帳戶
+CA_81,5,CA_69,EN,R12 銀行/財政部通知退款,R12 銀行/財政部通知退款
+CA_82,5,CA_69,EN,R13 欺詐個案,R13 欺詐個案
+CA_83,5,CA_69,EN,R14 測試訂單,R14 測試訂單
+CA_84,2,CA_1,EN,推廣優惠 Promotion,推廣優惠 Promotion
+CA_85,5,CA_84,EN,P1 App - 未能享用VIP優惠 ,P1 App - 未能享用VIP優惠 
+CA_86,5,CA_84,EN,P2 App - 未能使用電子禮券,P2 App - 未能使用電子禮券
+CA_87,5,CA_84,EN,P3 App - 未能使用MB電子禮券,P3 App - 未能使用MB電子禮券
+CA_88,5,CA_84,EN,P4 App - 未能使用優惠券 ,P4 App - 未能使用優惠券 
+CA_89,5,CA_84,EN,P5 App - 未賺取MB積分,P5 App - 未賺取MB積分
+CA_90,5,CA_84,EN,P6 App - 未賺取電子禮券,P6 App - 未賺取電子禮券
+CA_91,5,CA_84,EN,P7 App - 未賺取優惠券,P7 App - 未賺取優惠券
+CA_92,5,CA_84,EN,P8 App - 沒有該推廣優惠,P8 App - 沒有該推廣優惠
+CA_93,5,CA_84,EN,P9 App - 貨品缺貨,P9 App - 貨品缺貨
+CA_94,5,CA_84,EN,P10 App - 過期 ,P10 App - 過期 
+CA_95,5,CA_84,EN,P11 App - 錯描述,P11 App - 錯描述
+CA_96,5,CA_84,EN,P12 App - 錯圖 ,P12 App - 錯圖 
+CA_97,5,CA_84,EN,P13 App - 錯價錢 ,P13 App - 錯價錢 
+CA_98,5,CA_84,EN,P14 App - 優惠碼失效 ,P14 App - 優惠碼失效 
+CA_99,5,CA_84,EN,P15 App - 贈品缺貨 ,P15 App - 贈品缺貨 
+CA_100,5,CA_84,EN,P16 App - 未能享用銀行推廣,P16 App - 未能享用銀行推廣
+CA_101,5,CA_84,EN,P17 App - 其他,P17 App - 其他
+CA_102,5,CA_84,EN,W1 website - 未能享用VIP優惠 ,W1 website - 未能享用VIP優惠 
+CA_103,5,CA_84,EN,W2 website - 未能使用電子禮券,W2 website - 未能使用電子禮券
+CA_104,5,CA_84,EN,W3 website - 未能使用MB電子禮券,W3 website - 未能使用MB電子禮券
+CA_105,5,CA_84,EN,W4 website - 未能使用優惠券 ,W4 website - 未能使用優惠券 
+CA_106,5,CA_84,EN,W5 website - 未賺取電子禮券,W5 website - 未賺取電子禮券
+CA_107,5,CA_84,EN,W6 website - 未賺取優惠券,W6 website - 未賺取優惠券
+CA_108,5,CA_84,EN,W7 website - 未賺取MB積分,W7 website - 未賺取MB積分
+CA_109,5,CA_84,EN,W8 website - 沒有該推廣優惠,W8 website - 沒有該推廣優惠
+CA_110,5,CA_84,EN,W9 website - 貨品缺貨,W9 website - 貨品缺貨
+CA_111,5,CA_84,EN,W10 website - 過期 ,W10 website - 過期 
+CA_112,5,CA_84,EN,W11 website - 錯描述,W11 website - 錯描述
+CA_113,5,CA_84,EN,W12 website - 錯圖 ,W12 website - 錯圖 
+CA_114,5,CA_84,EN,W13 website - 錯價錢 ,W13 website - 錯價錢 
+CA_115,5,CA_84,EN,W14 website - 優惠碼失效 ,W14 website - 優惠碼失效 
+CA_116,5,CA_84,EN,W15 website - 贈品缺貨 ,W15 website - 贈品缺貨 
+CA_117,5,CA_84,EN,W16 website - 未能享用銀行推廣,W16 website - 未能享用銀行推廣
+CA_118,5,CA_84,EN,W17 website - 其他,W17 website - 其他
+CA_119,2,CA_1,EN,貨品問題 Products,貨品問題 Products
+CA_120,5,CA_119,EN,G1 品質 - 新鮮貨品 ,G1 品質 - 新鮮貨品 
+CA_121,5,CA_119,EN,G2 品質 - 新鮮貨品 (自家品牌),G2 品質 - 新鮮貨品 (自家品牌)
+CA_122,5,CA_119,EN,G3 品質 - 冰貨,G3 品質 - 冰貨
+CA_123,5,CA_119,EN,G4 品質 - 冰貨 (自家品牌),G4 品質 - 冰貨 (自家品牌)
+CA_124,5,CA_119,EN,G5 品質 - 乾貨,G5 品質 - 乾貨
+CA_125,5,CA_119,EN,G6 品質 - 乾貨 (自家品牌),G6 品質 - 乾貨 (自家品牌)
+CA_126,5,CA_119,EN,G7 品質 - 味道有變/臭,G7 品質 - 味道有變/臭
+CA_127,5,CA_119,EN,G8 品質 - 味道有變/臭 (自家品牌),G8 品質 - 味道有變/臭 (自家品牌)
+CA_128,5,CA_119,EN,G9 品質 - 倉發現爛貨安排退款 ,G9 品質 - 倉發現爛貨安排退款 
+CA_129,5,CA_119,EN,G10 品質 - 凍貨,G10 品質 - 凍貨
+CA_130,5,CA_119,EN,G11 品質 - 凍貨 (自家品牌),G11 品質 - 凍貨 (自家品牌)
+CA_131,5,CA_119,EN,G12 品質 - 液體貨,G12 品質 - 液體貨
+CA_132,5,CA_119,EN,G13 品質 - 短期貨 ,G13 品質 - 短期貨 
+CA_133,5,CA_119,EN,G14 品質 - 短期貨 (自家品牌),G14 品質 - 短期貨 (自家品牌)
+CA_134,5,CA_119,EN,G15 品質 - 贈品損毀/壞 ,G15 品質 - 贈品損毀/壞 
+CA_135,5,CA_119,EN,G16 品質 - 其他,G16 品質 - 其他
+CA_136,2,CA_1,EN,電子優惠券問題 eCoupon issues,電子優惠券問題 eCoupon issues
+CA_137,5,CA_136,EN,Q1 沒有記錄 ,Q1 沒有記錄 
+CA_138,5,CA_136,EN,Q2 過期 ,Q2 過期 
+CA_139,5,CA_136,EN,Q3 錯數量 ,Q3 錯數量 
+CA_141,2,CA_1,EN,電子禮券問題 eVoucher issues,電子禮券問題 eVoucher issues
+CA_142,5,CA_141,EN,X1 沒有記錄 ,X1 沒有記錄 
+CA_143,5,CA_141,EN,X2 過期 ,X2 過期 
+CA_144,5,CA_141,EN,X3 錯數量 ,X3 錯數量 
+CA_145,5,CA_141,EN,X4 沒有記錄 - MB ,X4 沒有記錄 - MB 
+CA_146,5,CA_141,EN,X5 過期 - MB,X5 過期 - MB
+CA_147,5,CA_141,EN,X6 錯數量 - MB,X6 錯數量 - MB
+CA_148,2,CA_1,EN,登入問題 Login Issues,登入問題 Login Issues
+CA_149,5,CA_148,EN,L1 App - 登入出現異常,L1 App - 登入出現異常
+CA_150,5,CA_148,EN,L2 App - 登入失敗 ,L2 App - 登入失敗 
+CA_151,5,CA_148,EN,L3 App - 其他 ,L3 App - 其他 
+CA_152,5,CA_148,EN,L4 未能升級至2.0 Can't upgrade to 2.0,L4 未能升級至2.0 Can't upgrade to 2.0
+CA_153,5,CA_148,EN,L5 Website - 登入出現異常,L5 Website - 登入出現異常
+CA_154,5,CA_148,EN,L6 Website - 登入失敗 ,L6 Website - 登入失敗 
+CA_155,5,CA_148,EN,L7 Website - 其他 ,L7 Website - 其他 
+CA_156,2,CA_1,EN,登記帳戶 Registration,登記帳戶 Registration
+CA_157,5,CA_156,EN,L8 登記會員失敗 ,L8 登記會員失敗 
+CA_160,2,CA_1,EN,積分問題 Point issues,積分問題 Point issues
+CA_161,5,CA_160,EN,K1 未能使用積分,K1 未能使用積分
+CA_162,5,CA_160,EN,K2 錯積分,K2 錯積分
+CA_163,2,CA_1,EN,職員服務態度 Staff performance / attitude,職員服務態度 Staff performance / attitude
+CA_164,5,CA_163,EN,T1 GZ職員無覆/遲覆 ,T1 GZ職員無覆/遲覆 
+CA_165,5,CA_163,EN,T2 GZ職員-其他 ,T2 GZ職員-其他 
+CA_166,5,CA_163,EN,T3 HK職員無覆/遲覆,T3 HK職員無覆/遲覆
+CA_167,5,CA_163,EN,T4 HK職員-其他,T4 HK職員-其他
+CA_168,5,CA_163,EN,T5 熱線線路繁忙 ,T5 熱線線路繁忙 
+CA_169,2,CA_1,EN,關於訂單 Fulfillment,關於訂單 Fulfillment
+CA_170,5,CA_169,EN,CCE1 店取易 - 一般查詢 ,CCE1 店取易 - 一般查詢 
+CA_171,5,CA_169,EN,CCE2 店取易 -  個人原因要求取消,CCE2 店取易 -  個人原因要求取消
+CA_172,5,CA_169,EN,CCE3 店取易 -  系統問題,CCE3 店取易 -  系統問題
+CA_173,5,CA_169,EN,CCE4 店取易 - 未收到確認電郵,CCE4 店取易 - 未收到確認電郵
+CA_174,5,CA_169,EN,CCE5 店取易 - 未經客人同意取消 ,CCE5 店取易 - 未經客人同意取消 
+CA_175,5,CA_169,EN,CCE6 店取易 - 沒有聯絡客人 ,CCE6 店取易 - 沒有聯絡客人 
+CA_176,5,CA_169,EN,CCE7 店取易 - 店舖未能聯絡客人,CCE7 店取易 - 店舖未能聯絡客人
+CA_177,5,CA_169,EN,CCE8 店取易 - No show 取消,CCE8 店取易 - No show 取消
+CA_178,5,CA_169,EN,CCE9 店取易 - 店舖職員態度,CCE9 店取易 - 店舖職員態度
+CA_179,5,CA_169,EN,CCE10 店取易 - 貨品質素,CCE10 店取易 - 貨品質素
+CA_180,5,CA_169,EN,CCE11 店取易 - 錯貨,CCE11 店取易 - 錯貨
+CA_181,5,CA_169,EN,CCE12 店取易 - 缺貨 ,CCE12 店取易 - 缺貨 
+CA_182,5,CA_169,EN,CCE13 店取易 - 漏貨 ,CCE13 店取易 - 漏貨 
+CA_183,5,CA_169,EN,CCE14 店取易 - 遲執貨,CCE14 店取易 - 遲執貨
+CA_184,5,CA_169,EN,CCE15 店取易 - 贈品,CCE15 店取易 - 贈品
+CA_185,5,CA_169,EN,CCE16 店取易 - 推廣優惠,CCE16 店取易 - 推廣優惠
+CA_186,5,CA_169,EN,D1 司機態度問題 ,D1 司機態度問題 
+CA_187,5,CA_169,EN,D2 更改送貨地址 - 客人要求,D2 更改送貨地址 - 客人要求
+CA_188,5,CA_169,EN,D3 更改送貨時間 - 客人要求,D3 更改送貨時間 - 客人要求
+CA_189,5,CA_169,EN,D4 更改送貨地址 - 錯區 ,D4 更改送貨地址 - 錯區 
+CA_190,5,CA_169,EN,D5 更改送貨時間 - 司機未能聯絡客人,D5 更改送貨時間 - 司機未能聯絡客人
+CA_191,5,CA_169,EN,D6 更改送貨時間 - 系統問題 (包括waiting/created單),D6 更改送貨時間 - 系統問題 (包括waiting/created單)
+CA_192,5,CA_169,EN,D7 更改送貨時間 - 倉要求,D7 更改送貨時間 - 倉要求
+CA_193,5,CA_169,EN,D8 取消訂單 - 由於大部份貨品缺貨,D8 取消訂單 - 由於大部份貨品缺貨
+CA_194,5,CA_169,EN,D9 倉出錯貨 ,D9 倉出錯貨 
+CA_195,5,CA_169,EN,D10 貨品缺貨 ,D10 貨品缺貨 
+CA_196,5,CA_169,EN,D11 倉通知因貨品缺貨/損壞改期,D11 倉通知因貨品缺貨/損壞改期
+CA_197,5,CA_169,EN,D12 司機送錯貨,D12 司機送錯貨
+CA_198,5,CA_169,EN,D13 司機送多貨 ,D13 司機送多貨 
+CA_199,5,CA_169,EN,D14 司機送漏貨品 ,D14 司機送漏貨品 
+CA_200,5,CA_169,EN,D15 司機送貨前無電話通知 ,D15 司機送貨前無電話通知 
+CA_201,5,CA_169,EN,D16 司機no show,D16 司機no show
+CA_202,5,CA_169,EN,D17 運輸問題取消訂單 ,D17 運輸問題取消訂單 
+CA_203,5,CA_169,EN,D18 運輸過程中損壞 ,D18 運輸過程中損壞 
+CA_204,5,CA_169,EN,D19 司機過早/過時送貨,D19 司機過早/過時送貨
+CA_205,5,CA_169,EN,D20 贈品缺貨,D20 贈品缺貨
+CA_206,5,CA_169,EN,D21 送貨系統問題,D21 送貨系統問題
+CA_207,5,CA_169,EN,D22 運輸問題 - 其他,D22 運輸問題 - 其他
+CA_209,2,CA_1,EN,讚揚 Compliment,讚揚 Compliment
+CA_210,5,CA_209,EN,L 讚揚 Compliment,L 讚揚 Compliment
+CA_211,2,CA_2,EN,一般 General,一般 General
+CA_212,5,CA_211,EN,A1 更改客戶資料 ,A1 更改客戶資料 
+CA_213,5,CA_211,EN,A2 迎新優惠 ,A2 迎新優惠 
+CA_214,5,CA_211,EN,A3 突發聯絡客人計劃 ,A3 突發聯絡客人計劃 
+CA_215,5,CA_211,EN,A4 意見 ,A4 意見 
+CA_216,5,CA_211,EN,A5 追進度 ,A5 追進度 
+CA_217,5,CA_211,EN,A6 搵香港同事 ,A6 搵香港同事 
+CA_218,5,CA_211,EN,A7 錯誤向百佳投訴 - WTC/FTR/others,A7 錯誤向百佳投訴 - WTC/FTR/others
+CA_219,2,CA_2,EN,一般查詢 Enquiry,一般查詢 Enquiry
+CA_220,5,CA_219,EN,B1 交易記錄 ,B1 交易記錄 
+CA_221,5,CA_219,EN,B2 合作伙伴推廣優惠,B2 合作伙伴推廣優惠
+CA_222,5,CA_219,EN,B3 百佳推廣優惠 ,B3 百佳推廣優惠 
+CA_223,5,CA_219,EN,B4 其他 ,B4 其他 
+CA_224,5,CA_219,EN,B5 易賞錢積分查詢 ,B5 易賞錢積分查詢 
+CA_225,5,CA_219,EN,B6 追退分情況,B6 追退分情況
+CA_226,5,CA_219,EN,B7 專貴會員推廣 ,B7 專貴會員推廣 
+CA_227,5,CA_219,EN,B8 電子印花查詢 ,B8 電子印花查詢 
+CA_228,5,CA_219,EN,B9 電子優惠券查詢,B9 電子優惠券查詢
+CA_229,5,CA_219,EN,B10 電子禮券查詢,B10 電子禮券查詢
+CA_230,5,CA_219,EN,B11 銀行推廣優惠 ,B11 銀行推廣優惠 
+CA_231,5,CA_219,EN,B12 購物記錄 ,B12 購物記錄 
+CA_232,5,CA_219,EN,B13 關於抽獎 ,B13 關於抽獎 
+CA_233,2,CA_2,EN,印花問題 eStamp Issues,印花問題 eStamp Issues
+CA_234,5,CA_233,EN,C1 未能分享 ,C1 未能分享 
+CA_235,5,CA_233,EN,C2 未能使用 ,C2 未能使用 
+CA_236,5,CA_233,EN,C3 過期 ,C3 過期 
+CA_237,5,CA_233,EN,C4 錯數量 ,C4 錯數量 
+CA_238,5,CA_233,EN,C5 其他 ,C5 其他 
+CA_239,2,CA_2,EN,系統問題 Systems,系統問題 Systems
+CA_240,5,CA_239,EN,S1 Kiosk 機問題 ,S1 Kiosk 機問題 
+CA_241,5,CA_239,EN,S2 未能列印單據,S2 未能列印單據
+CA_242,5,CA_239,EN,S3 未能列印Till coupon,S3 未能列印Till coupon
+CA_243,5,CA_239,EN,S4 App - 不能打開 ,S4 App - 不能打開 
+CA_244,5,CA_239,EN,S5 App - 不能顯示積分 ,S5 App - 不能顯示積分 
+CA_245,5,CA_239,EN,S6 App - 慢/壞,S6 App - 慢/壞
+CA_246,5,CA_239,EN,S7 App - 顯示錯積分 ,S7 App - 顯示錯積分 
+CA_247,5,CA_239,EN,S8 App - 按鍵出Error/無反應 ,S8 App - 按鍵出Error/無反應 
+CA_248,5,CA_239,EN,S9 電子收據無記錄 ,S9 電子收據無記錄 
+CA_249,5,CA_239,EN,S10 電子收據錯記錄 ,S10 電子收據錯記錄 
+CA_250,5,CA_239,EN,S11 Website - 慢/壞,S11 Website - 慢/壞
+CA_251,5,CA_239,EN,S12 Website - 按鍵出Error/無反應 ,S12 Website - 按鍵出Error/無反應 
+CA_252,5,CA_239,EN,S13 Website - 開不到網頁 ,S13 Website - 開不到網頁 
+CA_253,2,CA_2,EN,推廣優惠 Promotion,推廣優惠 Promotion
+CA_254,5,CA_253,EN,P1 未能使用優惠,P1 未能使用優惠
+CA_255,5,CA_253,EN,P2 未能兌換Till coupon,P2 未能兌換Till coupon
+CA_256,5,CA_253,EN,P3 未能賺取積分,P3 未能賺取積分
+CA_257,5,CA_253,EN,P4 未能賺取印花,P4 未能賺取印花
+CA_258,5,CA_253,EN,P5 沒有該推廣優惠 ,P5 沒有該推廣優惠 
+CA_259,5,CA_253,EN,P6 過期 ,P6 過期 
+CA_260,5,CA_253,EN,P7 誤導性描述,P7 誤導性描述
+CA_261,5,CA_253,EN,P8 錯圖 ,P8 錯圖 
+CA_262,5,CA_253,EN,P9 錯價錢 ,P9 錯價錢 
+CA_263,5,CA_253,EN,P10 贈品問題,P10 贈品問題
+CA_264,5,CA_253,EN,P11 關於抽獎,P11 關於抽獎
+CA_265,5,CA_253,EN,P12 銀行推廣優惠 - 未能使用 ,P12 銀行推廣優惠 - 未能使用 
+CA_266,5,CA_253,EN,P13 其他 ,P13 其他 
+CA_267,5,CA_253,EN,V1 VIP 會員推廣 - 未能使用優惠,V1 VIP 會員推廣 - 未能使用優惠
+CA_268,5,CA_253,EN,V2 VIP 會員推廣 - 未能兌換Till coupon,V2 VIP 會員推廣 - 未能兌換Till coupon
+CA_269,5,CA_253,EN,V3 VIP 會員推廣 - 未能賺取積分,V3 VIP 會員推廣 - 未能賺取積分
+CA_270,5,CA_253,EN,V4 VIP 會員推廣 - 未能賺取印花,V4 VIP 會員推廣 - 未能賺取印花
+CA_271,5,CA_253,EN,V5 VIP 會員推廣 - 沒有該推廣優惠 ,V5 VIP 會員推廣 - 沒有該推廣優惠 
+CA_272,5,CA_253,EN,V6 VIP 會員推廣 - 過期 ,V6 VIP 會員推廣 - 過期 
+CA_273,5,CA_253,EN,V7 VIP 會員推廣 - 誤導性描述,V7 VIP 會員推廣 - 誤導性描述
+CA_274,5,CA_253,EN,V8 VIP 會員推廣 - 錯圖 ,V8 VIP 會員推廣 - 錯圖 
+CA_275,5,CA_253,EN,V9 VIP 會員推廣 - 錯價錢 ,V9 VIP 會員推廣 - 錯價錢 
+CA_276,5,CA_253,EN,V10 VIP 會員推廣 - 贈品問題,V10 VIP 會員推廣 - 贈品問題
+CA_277,5,CA_253,EN,V11 VIP 會員推廣 - 關於抽獎,V11 VIP 會員推廣 - 關於抽獎
+CA_278,5,CA_253,EN,V12 VIP 會員推廣 - 要求兌換禮品/服務,V12 VIP 會員推廣 - 要求兌換禮品/服務
+CA_279,5,CA_253,EN,V13 VIP 會員推廣 - 要求取消禮品/服務,V13 VIP 會員推廣 - 要求取消禮品/服務
+CA_280,5,CA_253,EN,J1 合作伙伴推廣優惠 - 不能兌換優惠 ,J1 合作伙伴推廣優惠 - 不能兌換優惠 
+CA_281,5,CA_253,EN,J2 合作伙伴推廣優惠 - 沒有該推廣優惠,J2 合作伙伴推廣優惠 - 沒有該推廣優惠
+CA_282,5,CA_253,EN,J3 合作伙伴推廣優惠 - 未能賺取積分,J3 合作伙伴推廣優惠 - 未能賺取積分
+CA_283,5,CA_253,EN,J4 合作伙伴推廣優惠 - 錯記錄 ,J4 合作伙伴推廣優惠 - 錯記錄 
+CA_284,5,CA_253,EN,J5 合作伙伴推廣優惠 - 錯描述 ,J5 合作伙伴推廣優惠 - 錯描述 
+CA_285,5,CA_253,EN,J6 合作伙伴推廣優惠 - 錯圖 ,J6 合作伙伴推廣優惠 - 錯圖 
+CA_286,5,CA_253,EN,J7 合作伙伴推廣優惠 - 錯價錢 ,J7 合作伙伴推廣優惠 - 錯價錢 
+CA_287,5,CA_253,EN,J8 合作伙伴推廣優惠 - 錯優惠 ,J8 合作伙伴推廣優惠 - 錯優惠 
+CA_288,2,CA_2,EN,合作夥伴機會 Partner Opportunity,合作夥伴機會 Partner Opportunity
+CA_289,5,CA_288,EN,J10 合作夥伴機會 ,J10 合作夥伴機會 
+CA_290,2,CA_2,EN,登入問題 Login Issues,登入問題 Login Issues
+CA_291,5,CA_290,EN,L1 App - 登入出現異常 ,L1 App - 登入出現異常 
+CA_292,5,CA_290,EN,L2 App - 其他 ,L2 App - 其他 
+CA_293,5,CA_290,EN,L3 Website - 出現異常情況 ,L3 Website - 出現異常情況 
+CA_294,5,CA_290,EN,L4 Website - 其他 ,L4 Website - 其他 
+CA_295,2,CA_2,EN,登記帳戶 Registration,登記帳戶 Registration
+CA_296,5,CA_295,EN,L5 登記會員失敗 ,L5 登記會員失敗 
+CA_297,2,CA_2,EN,電子優惠券問題 eCoupon issues,電子優惠券問題 eCoupon issues
+CA_298,5,CA_297,EN,Q1 未能分享 ,Q1 未能分享 
+CA_299,5,CA_297,EN,Q2 未能使用 eCoupon,Q2 未能使用 eCoupon
+CA_300,5,CA_297,EN,Q3 未能使用 Till coupon ,Q3 未能使用 Till coupon 
+CA_301,5,CA_297,EN,Q4 沒有記錄 ,Q4 沒有記錄 
+CA_302,5,CA_297,EN,Q5 錯數量 ,Q5 錯數量 
+CA_303,5,CA_297,EN,Q6 過期 eCoupon,Q6 過期 eCoupon
+CA_304,5,CA_297,EN,Q7 過期 Till coupon ,Q7 過期 Till coupon 
+CA_305,2,CA_2,EN,電子禮券問題 eVoucher issues,電子禮券問題 eVoucher issues
+CA_306,5,CA_305,EN,X1 未能分享 ,X1 未能分享 
+CA_307,5,CA_305,EN,X2 未能使用 ,X2 未能使用 
+CA_308,5,CA_305,EN,X3 沒有記錄 ,X3 沒有記錄 
+CA_309,5,CA_305,EN,X4 過期 ,X4 過期 
+CA_310,5,CA_305,EN,X5 錯數量 ,X5 錯數量 
+CA_311,2,CA_2,EN,積分問題 Point issues,積分問題 Point issues
+CA_312,5,CA_311,EN,K1 過期積分,K1 過期積分
+CA_313,5,CA_311,EN,K2 未能分享 ,K2 未能分享 
+CA_314,5,CA_311,EN,K3 未能使用,K3 未能使用
+CA_315,5,CA_311,EN,K4 沒有記錄 ,K4 沒有記錄 
+CA_316,5,CA_311,EN,K5 負積分 ,K5 負積分 
+CA_317,5,CA_311,EN,K6 偷竊 ,K6 偷竊 
+CA_318,5,CA_311,EN,K7 過期 ,K7 過期 
+CA_319,5,CA_311,EN,K8 錯記錄 ,K8 錯記錄 
+CA_320,5,CA_311,EN,K9 錯誤獲得積分 ,K9 錯誤獲得積分 
+CA_321,2,CA_2,EN,職員服務態度 Staff performance / attitude,職員服務態度 Staff performance / attitude
+CA_322,5,CA_321,EN,T1 GZ職員無覆/遲覆 ,T1 GZ職員無覆/遲覆 
+CA_323,5,CA_321,EN,T2 GZ職員-其他 ,T2 GZ職員-其他 
+CA_324,5,CA_321,EN,T3 HK職員無覆/遲覆,T3 HK職員無覆/遲覆
+CA_325,5,CA_321,EN,T4 HK職員-其他,T4 HK職員-其他
+CA_326,5,CA_321,EN,T5 熱線繁忙 ,T5 熱線繁忙 
+CA_327,2,CA_2,EN,轉換積分 Point Conversion,轉換積分 Point Conversion
+CA_328,5,CA_327,EN,H1 亞洲萬里通 Asia Miles - 沒有積分記錄 ,H1 亞洲萬里通 Asia Miles - 沒有積分記錄 
+CA_329,5,CA_327,EN,H2 亞洲萬里通 Asia Miles - 錯誤積分記錄,H2 亞洲萬里通 Asia Miles - 錯誤積分記錄
+CA_330,5,CA_327,EN,H3 花旗银行 Citi - 沒有積分記錄 ,H3 花旗银行 Citi - 沒有積分記錄 
+CA_331,5,CA_327,EN,H4 花旗银行 Citi - 錯誤積分記錄 ,H4 花旗银行 Citi - 錯誤積分記錄 
+CA_332,5,CA_327,EN,H5 埃索Esso - 沒有積分記錄,H5 埃索Esso - 沒有積分記錄
+CA_333,5,CA_327,EN,H6 埃索Esso - 錯誤積分記錄 ,H6 埃索Esso - 錯誤積分記錄 
+CA_334,5,CA_327,EN,H7 匯豐银行 HSBC - 沒有積分記錄 ,H7 匯豐银行 HSBC - 沒有積分記錄 
+CA_335,5,CA_327,EN,H8 匯豐银行HSBC - 錯誤積分記錄,H8 匯豐银行HSBC - 錯誤積分記錄
+CA_336,2,CA_2,EN,關於帳戶 Account Related,關於帳戶 Account Related
+CA_337,5,CA_336,EN,M1 合併卡 Combine Card,M1 合併卡 Combine Card
+CA_338,5,CA_336,EN,M2 報失卡 - 堅持要實體卡,M2 報失卡 - 堅持要實體卡
+CA_339,5,CA_336,EN,M3 報失卡 - 寄回無此人 ,M3 報失卡 - 寄回無此人 
+CA_340,5,CA_336,EN,M4 報失卡 - 接受下載手機程式 ,M4 報失卡 - 接受下載手機程式 
+CA_341,5,CA_336,EN,M5 追補回失卡進度,M5 追補回失卡進度
+CA_342,5,CA_336,EN,M6 解除合併 Delink - Alipay,M6 解除合併 Delink - Alipay
+CA_343,5,CA_336,EN,M7 解除合併 Delink - Asia Miles,M7 解除合併 Delink - Asia Miles
+CA_344,5,CA_336,EN,U 拒絕接收宣傳訊息 Unsubscribe,U 拒絕接收宣傳訊息 Unsubscribe
+CA_345,5,CA_336,EN,L 讚揚 Compliment,L 讚揚 Compliment
+CA_346,2,CA_3,EN,一般 General,一般 General
+CA_347,5,CA_346,EN,A1 查詢遇到意外事宜,A1 查詢遇到意外事宜
+CA_348,5,CA_346,EN,A2 要求賠償意外損失 ,A2 要求賠償意外損失 
+CA_349,5,CA_346,EN,A3 追意外事件跟進情況 ,A3 追意外事件跟進情況 
+CA_350,5,CA_346,EN,A4 追意外保險賠償進度 ,A4 追意外保險賠償進度 
+CA_351,5,CA_346,EN,A5 意見,A5 意見
+CA_352,5,CA_346,EN,A6 搵香港同事 ,A6 搵香港同事 
+CA_353,5,CA_346,EN,A7 追進度,A7 追進度
+CA_354,5,CA_346,EN,A8 遺留物品,A8 遺留物品
+CA_355,5,CA_346,EN,A9 錯誤向百佳投訴 - WTC/FTR/others,A9 錯誤向百佳投訴 - WTC/FTR/others
+CA_356,2,CA_3,EN,一般查詢 Enquiry,一般查詢 Enquiry
+CA_357,5,CA_356,EN,B1 付款查詢 ,B1 付款查詢 
+CA_358,5,CA_356,EN,B2 自助收銀機 ,B2 自助收銀機 
+CA_359,5,CA_356,EN,B3 其他 ,B3 其他 
+CA_360,5,CA_356,EN,B4 易賞錢積分查詢 ,B4 易賞錢積分查詢 
+CA_361,5,CA_356,EN,B5 查詢門巿地址 / 電話,B5 查詢門巿地址 / 電話
+CA_362,5,CA_356,EN,B6 查詢貨品 ,B6 查詢貨品 
+CA_363,5,CA_356,EN,B7 送貨查詢 ,B7 送貨查詢 
+CA_364,5,CA_356,EN,B8 推廣優惠查詢 ,B8 推廣優惠查詢 
+CA_365,5,CA_356,EN,B9 貨品價格查詢 ,B9 貨品價格查詢 
+CA_366,5,CA_356,EN,B10 銀行推廣優惠,B10 銀行推廣優惠
+CA_367,5,CA_356,EN,B11 購物記錄 ,B11 購物記錄 
+CA_368,5,CA_356,EN,B12 贈品查詢 ,B12 贈品查詢 
+CA_369,2,CA_3,EN,大量訂購 Bulk Purchase,大量訂購 Bulk Purchase
+CA_370,5,CA_369,EN,C1 追進度 ,C1 追進度 
+CA_371,5,CA_369,EN,C2 貨品 ,C2 貨品 
+CA_372,5,CA_369,EN,C3 禮券 ,C3 禮券 
+CA_373,2,CA_3,EN,印花問題 eStamp Issues,印花問題 eStamp Issues
+CA_374,5,CA_373,EN,D 漏/錯印花 ,D 漏/錯印花 
+CA_375,2,CA_3,EN,合作夥伴機會 Partner Opportunity,合作夥伴機會 Partner Opportunity
+CA_376,5,CA_375,EN,O 合作夥伴機會 ,O 合作夥伴機會 
+CA_377,2,CA_3,EN,系統問題 Systems,系統問題 Systems
+CA_378,5,CA_377,EN,S1 Kiosk 機問題 ,S1 Kiosk 機問題 
+CA_379,5,CA_377,EN,S2 收錢機問題 ,S2 收錢機問題 
+CA_380,5,CA_377,EN,S3 自助收銀機操作問題 ,S3 自助收銀機操作問題 
+CA_381,5,CA_377,EN,S4 未能列印單據,S4 未能列印單據
+CA_382,5,CA_377,EN,S5 未能列印Till coupon,S5 未能列印Till coupon
+CA_383,2,CA_3,EN,店舖環境 Environment,店舖環境 Environment
+CA_384,5,CA_383,EN,E1 上貨時出現噪音 ,E1 上貨時出現噪音 
+CA_385,5,CA_383,EN,E2 上貨停泊問題 ,E2 上貨停泊問題 
+CA_386,5,CA_383,EN,E3 店舖環境 ,E3 店舖環境 
+CA_387,5,CA_383,EN,E4 店舖設施 ,E4 店舖設施 
+CA_388,2,CA_3,EN,退款 / 換貨 Refund / Exchange,退款 / 換貨 Refund / Exchange
+CA_389,5,CA_388,EN,R1 查詢退款情況,R1 查詢退款情況
+CA_390,5,CA_388,EN,R2 送貨問題 ,R2 送貨問題 
+CA_391,5,CA_388,EN,R3 欺詐個案 ,R3 欺詐個案 
+CA_392,5,CA_388,EN,R4 其他,R4 其他
+CA_393,2,CA_3,EN,推廣優惠 Promotion,推廣優惠 Promotion
+CA_394,5,CA_393,EN,P1 SoSim問題,P1 SoSim問題
+CA_395,5,CA_393,EN,P2 未能享用 ,P2 未能享用 
+CA_396,5,CA_393,EN,P3 沒有飛尾 (Till coupon),P3 沒有飛尾 (Till coupon)
+CA_397,5,CA_393,EN,P4 沒有該推廣優惠 ,P4 沒有該推廣優惠 
+CA_398,5,CA_393,EN,P5 貨品缺貨 ,P5 貨品缺貨 
+CA_399,5,CA_393,EN,P6 過期,P6 過期
+CA_400,5,CA_393,EN,P7 誤導性描述,P7 誤導性描述
+CA_401,5,CA_393,EN,P8 銀行推廣優惠 - 未能使用,P8 銀行推廣優惠 - 未能使用
+CA_402,5,CA_393,EN,P9 錯圖 ,P9 錯圖 
+CA_403,5,CA_393,EN,P10 錯價錢 ,P10 錯價錢 
+CA_404,5,CA_393,EN,P11 贈品缺貨 ,P11 贈品缺貨 
+CA_405,5,CA_393,EN,P12 關於抽獎 ,P12 關於抽獎 
+CA_406,2,CA_3,EN,貨品問題 Products,貨品問題 Products
+CA_407,5,CA_406,EN,G1 品質 - 新鮮貨品 ,G1 品質 - 新鮮貨品 
+CA_408,5,CA_406,EN,G2 品質 - 新鮮貨品 (自家品牌),G2 品質 - 新鮮貨品 (自家品牌)
+CA_409,5,CA_406,EN,G3 品質 - 冰貨/凍貨,G3 品質 - 冰貨/凍貨
+CA_410,5,CA_406,EN,G4 品質 - 冰貨/凍貨 (自家品牌),G4 品質 - 冰貨/凍貨 (自家品牌)
+CA_411,5,CA_406,EN,G5 品質 - 乾貨/液體貨,G5 品質 - 乾貨/液體貨
+CA_412,5,CA_406,EN,G6 品質 - 乾貨/液體貨 (自家品牌),G6 品質 - 乾貨/液體貨 (自家品牌)
+CA_413,5,CA_406,EN,G7 品質 - 味道有變/臭,G7 品質 - 味道有變/臭
+CA_414,5,CA_406,EN,G8 品質 - 味道有變/臭 (自家品牌),G8 品質 - 味道有變/臭 (自家品牌)
+CA_415,5,CA_406,EN,G8 品質 - 短期貨 ,G8 品質 - 短期貨 
+CA_416,5,CA_406,EN,G9 品質 - 短期貨 (自家品牌),G9 品質 - 短期貨 (自家品牌)
+CA_417,5,CA_406,EN,G10 品質 - 贈品損毀/壞 ,G10 品質 - 贈品損毀/壞 
+CA_418,5,CA_406,EN,G11 品質 - 其他,G11 品質 - 其他
+CA_419,2,CA_3,EN,電子優惠券問題 eCoupon issues,電子優惠券問題 eCoupon issues
+CA_420,5,CA_419,EN,Q1 未能使用,Q1 未能使用
+CA_421,5,CA_419,EN,Q2 沒有記錄,Q2 沒有記錄
+CA_422,5,CA_419,EN,Q3 過期 ,Q3 過期 
+CA_423,5,CA_419,EN,Q4 錯數量 ,Q4 錯數量 
+CA_424,2,CA_3,EN,電子禮券問題 eVoucher issues,電子禮券問題 eVoucher issues
+CA_425,5,CA_424,EN,X1 未能使用,X1 未能使用
+CA_426,5,CA_424,EN,X2 沒有記錄,X2 沒有記錄
+CA_427,5,CA_424,EN,X3 過期 ,X3 過期 
+CA_428,5,CA_424,EN,X4 錯數量 ,X4 錯數量 
+CA_429,2,CA_3,EN,實體優惠券問題 Coupon issues,實體優惠券問題 Coupon issues
+CA_430,5,CA_429,EN,N1 食物券 - 損毀 ,N1 食物券 - 損毀 
+CA_431,5,CA_429,EN,N2 食物券 - 過期,N2 食物券 - 過期
+CA_432,5,CA_429,EN,N3 食物券 - 不能使用 ,N3 食物券 - 不能使用 
+CA_433,5,CA_429,EN,N4 實體優惠券 - 不能使用 ,N4 實體優惠券 - 不能使用 
+CA_434,5,CA_429,EN,N5 實體優惠券 - 損毀 ,N5 實體優惠券 - 損毀 
+CA_435,5,CA_429,EN,N6 實體優惠券 - 過期 ,N6 實體優惠券 - 過期 
+CA_436,2,CA_3,EN,積分問題 Point issues,積分問題 Point issues
+CA_437,5,CA_436,EN,K1 未能使用積分,K1 未能使用積分
+CA_438,5,CA_436,EN,K2 漏/錯積分 ,K2 漏/錯積分 
+CA_439,2,CA_3,EN,職員服務態度 Staff performance / attitude,職員服務態度 Staff performance / attitude
+CA_440,5,CA_439,EN,T1 付款問題 (如收錯錢) ,T1 付款問題 (如收錯錢) 
+CA_441,5,CA_439,EN,T2 收錢機操作問題/重複收費,T2 收錢機操作問題/重複收費
+CA_442,5,CA_439,EN,T3 貨品/推廣優惠認識 ,T3 貨品/推廣優惠認識 
+CA_443,5,CA_439,EN,T4 誠信問題 ,T4 誠信問題 
+CA_444,5,CA_439,EN,T5 熱線繁忙,T5 熱線繁忙
+CA_445,5,CA_439,EN,T6 濫收賿袋費用$0.5,T6 濫收賿袋費用$0.5
+CA_446,5,CA_439,EN,T7 職員服務態度,T7 職員服務態度
+CA_447,5,CA_439,EN,T8 GZ職員無覆/遲覆 ,T8 GZ職員無覆/遲覆 
+CA_448,5,CA_439,EN,T9 GZ職員-其他 ,T9 GZ職員-其他 
+CA_449,5,CA_439,EN,T10 HK職員無覆/遲覆,T10 HK職員無覆/遲覆
+CA_450,5,CA_439,EN,T11 HK職員-其他,T11 HK職員-其他
+CA_451,2,CA_3,EN,關於訂單 Fulfillment,關於訂單 Fulfillment
+CA_452,5,CA_451,EN,J1 司機態度問題 ,J1 司機態度問題 
+CA_453,5,CA_451,EN,J2 司機送多貨,J2 司機送多貨
+CA_454,5,CA_451,EN,J3 司機送漏貨品,J3 司機送漏貨品
+CA_455,5,CA_451,EN,J4 司機送貨前無電話通知 ,J4 司機送貨前無電話通知 
+CA_456,5,CA_451,EN,J5 司機送錯貨品 ,J5 司機送錯貨品 
+CA_457,5,CA_451,EN,J6 司機 no show,J6 司機 no show
+CA_458,5,CA_451,EN,J7 運輸過程中損壞,J7 運輸過程中損壞
+CA_459,5,CA_451,EN,J8 司機過早/過時送貨,J8 司機過早/過時送貨
+CA_461,2,CA_3,EN,讚揚 Compliment,讚揚 Compliment
+CA_462,5,CA_461,EN,L 讚揚 Compliment,L 讚揚 Compliment
+CA_493,2,CA_3,EN,實體禮券問題 Voucher issues,實體禮券問題 Voucher issues
+CA_494,5,CA_493,EN,H1 實體禮券 - 不能使用,H1 實體禮券 - 不能使用
+CA_495,5,CA_493,EN,H2 實體禮券 - 損毀 ,H2 實體禮券 - 損毀 
+CA_496,5,CA_493,EN,H3 實體禮券 - 過期 ,H3 實體禮券 - 過期 
+CA_497,2,CA_1,EN,關於帳戶 Account Related,關於帳戶 Account Related
+CA_498,2,CA_3,EN,關於帳戶 Account Related,關於帳戶 Account Related
+RC_1,6,,EN,Compensation,Compensation
+RC_2,6,,EN,Proposed settlement,Proposed settlement
+RC_3,6,,EN,Refund,Refund
+RC_4,6,,EN,Replacement,Replacement
+RC_5,6,,EN,Verbal,Verbal
+RC_6,6,,EN,Written,Written
+RC_7,6,,EN,Replacement / Change Model,Replacement / Change Model
+RC_8,6,,EN,Proposed settlement (Verbal),Proposed settlement (Verbal)
+RC_9,6,,EN,Proposed settlement (Written),Proposed settlement (Written)
+RC_10,6,,EN,Esculated to 3rd Party,Esculated to 3rd Party
+RC_11,6,,EN,Refund-by eVoucher,Refund-by eVoucher
+RC_12,6,,EN,Refund-by eCoupon ,Refund-by eCoupon 
+RC_13,6,,EN,Refund by MB Point,Refund by MB Point
+RC_14,6,,EN,Refund to original account,Refund to original account
+RC_15,6,,EN,Refund by Cash ,Refund by Cash 
+RC_16,6,,EN,Refund by Gift Voucher ,Refund by Gift Voucher 
+RC_17,6,,EN,Exchange for same value products,Exchange for same value products
+RC_18,6,,EN,Adjust eStamp ,Adjust eStamp 
+RC_19,6,,EN,Adjust MB point,Adjust MB point
+RC_20,6,,EN,Unreach,Unreach
+CA_500,5,CA_498,EN,U 拒絕接收宣傳訊息 Unsubscribe,U 拒絕接收宣傳訊息 Unsubscribe
+CA_501,5,CA_239,EN,S14 其他,S14 其他
+CA_502,5,CA_253,EN,J9 合作夥伴推廣優惠 - 過期,J9 合作夥伴推廣優惠 - 過期
+CA_503,5,CA_311,EN,K10 其他,K10 其他
+CA_504,5,CA_327,EN,H9 其他,H9 其他
+CA_505,5,CA_33,EN,E19 Website - 未能建立訂單(無過數),E19 Website - 未能建立訂單(無過數)
+CA_506,5,CA_33,EN,E20 Website - 未能付款,E20 Website - 未能付款
+CA_507,5,CA_169,EN,D23 商戶直送問題,D23 商戶直送問題
+CA_508,5,CA_497,EN,D23 商戶直送問題,D23 商戶直送問題
+CA_509,5,CA_451,EN,J9 運輸問題 - 其他,J9 運輸問題 - 其他
+CA_510,5,CA_383,EN,E5 其他,E5 其他
+CA_511,5,CA_393,EN,P13 其他,P13 其他
+CA_512,5,CA_419,EN,Q5 其他,Q5 其他
+CA_513,5,CA_424,EN,X5 其他,X5 其他
+CA_514,5,CA_136,EN,Q4 其他,Q4 其他
+CA_515,5,CA_429,EN,N7 其他,N7 其他
+CA_516,5,CA_493,EN,H4 其他,H4 其他
+CA_517,5,CA_141,EN,X7 其他,X7 其他

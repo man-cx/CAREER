@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:ZZproduct_XML_IPInputRequest xmlns:ns1="http://0017210839-one-off.sap.com/YFPYSE8NY_">
+	<MessageHeader>
+		<CreationDateTime>2017-10-04T17:54:28.213228Z</CreationDateTime>
+	</MessageHeader>
+	<List>
+		<ZZ_Product>
+			<ProductID>175312</ProductID>
+			<Name>P- Bruan D4010 Toothbrush</Name>
+			<EnglishName_UXPOS>P- Bruan D4010 Toothbrush</EnglishName_UXPOS>
+			<Category>TMF SERVICE CHARGES</Category>
+			<UnitofMessure>EA</UnitofMessure>
+			<SupplierID>1133</SupplierID>
+			<SupplierName>PRICERITE MARKETING LIMITED</SupplierName>
+			<Deliveryparty>Warehouse</Deliveryparty>
+			<Status>Active</Status>
+			<PriceriteStatus>101</PriceriteStatus>
+		</ZZ_Product>
+		<ZZ_Product>
+			<ProductID>176557</ProductID>
+			<Name>HAIER HLQ23G1W 23" LCD TV</Name>
+			<EnglishName_UXPOS>HAIER HLQ23G1W 23" LCD TV</EnglishName_UXPOS>
+			<Category>TMF SERVICE CHARGES</Category>
+			<UnitofMessure>EA</UnitofMessure>
+			<SupplierID>1178</SupplierID>
+			<SupplierName>EVERTOP DIGITAL TECHNOLOGY LTD</SupplierName>
+			<Deliveryparty>Warehouse</Deliveryparty>
+			<Status>Blocked</Status>
+			<PriceriteStatus>103</PriceriteStatus>
+		</ZZ_Product>
+	</List>
+</ns1:ZZproduct_XML_IPInputRequest>

@@ -1,0 +1,10 @@
+# Conversion lag
+# Start date,2020-05-01
+# End date,2020-05-31
+# Selected model,Last click
+
+Conversion lag,Last click: Attributed conversions,Last click: Attributed revenue,Last click: Average conversion lag
+Total,51,0,1.04
+1,50,0,1
+2,0,0,0
+3,1,0,3

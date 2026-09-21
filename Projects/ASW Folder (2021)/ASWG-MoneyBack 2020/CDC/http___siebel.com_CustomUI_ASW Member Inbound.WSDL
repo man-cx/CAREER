@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><definitions
+ xmlns="http://schemas.xmlsoap.org/wsdl/"
+ xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+ targetNamespace="http://siebel.com/CustomUI"
+ xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/"
+ xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+ xmlns:tns="http://siebel.com/CustomUI"
+><types
+><xsd:schema
+ elementFormDefault="qualified"
+ attributeFormDefault="unqualified"
+ targetNamespace="http://siebel.com/CustomUI"
+ xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+><xsd:element
+ name="ASWMemberInboundMemberUpsert_Input"
+><xsd:complexType
+><xsd:sequence
+><xsd:element
+ name="RequestXML"
+ type="xsd:string"
+></xsd:element
+></xsd:sequence
+></xsd:complexType
+></xsd:element
+><xsd:element
+ name="ASWMemberInboundMemberUpsert_Output"
+><xsd:complexType
+><xsd:sequence
+><xsd:element
+ name="ResponseXML"
+ type="xsd:string"
+></xsd:element
+></xsd:sequence
+></xsd:complexType
+></xsd:element
+><xsd:element
+ name="ASWMemberInboundMemberQuery_Input"
+><xsd:complexType
+><xsd:sequence
+><xsd:element
+ name="RequestXML"
+ type="xsd:string"
+></xsd:element
+></xsd:sequence
+></xsd:complexType
+></xsd:element
+><xsd:element
+ name="ASWMemberInboundMemberQuery_Output"
+><xsd:complexType
+><xsd:sequence
+><xsd:element
+ name="ResponseXML"
+ type="xsd:string"
+></xsd:element
+></xsd:sequence
+></xsd:complexType
+></xsd:element
+><xsd:element
+ name="ASWMemberInboundMemberService_Input"
+><xsd:complexType
+><xsd:sequence
+><xsd:element
+ name="RequestXML"
+ type="xsd:string"
+></xsd:element
+></xsd:sequence
+></xsd:complexType
+></xsd:element
+><xsd:element
+ name="ASWMemberInboundMemberService_Output"
+><xsd:complexType
+><xsd:sequence
+><xsd:element
+ name="ResponseXML"
+ type="xsd:string"
+></xsd:element
+></xsd:sequence
+></xsd:complexType
+></xsd:element
+></xsd:schema
+></types
+><message
+ name="ASWMemberInboundMemberUpsert_Input"
+><part
+ name="ASWMemberInboundMemberUpsert_Input"
+ element="tns:ASWMemberInboundMemberUpsert_Input"
+></part
+></message
+><message
+ name="ASWMemberInboundMemberUpsert_Output"
+><part
+ name="ASWMemberInboundMemberUpsert_Output"
+ element="tns:ASWMemberInboundMemberUpsert_Output"
+></part
+></message
+><message
+ name="ASWMemberInboundMemberQuery_Input"
+><part
+ name="ASWMemberInboundMemberQuery_Input"
+ element="tns:ASWMemberInboundMemberQuery_Input"
+></part
+></message
+><message
+ name="ASWMemberInboundMemberQuery_Output"
+><part
+ name="ASWMemberInboundMemberQuery_Output"
+ element="tns:ASWMemberInboundMemberQuery_Output"
+></part
+></message
+><message
+ name="ASWMemberInboundMemberService_Input"
+><part
+ name="ASWMemberInboundMemberService_Input"
+ element="tns:ASWMemberInboundMemberService_Input"
+></part
+></message
+><message
+ name="ASWMemberInboundMemberService_Output"
+><part
+ name="ASWMemberInboundMemberService_Output"
+ element="tns:ASWMemberInboundMemberService_Output"
+></part
+></message
+><portType
+ name="ASW_spcMember_spcInbound"
+><operation
+ name="ASWMemberInboundMemberUpsert"
+><input
+ message="tns:ASWMemberInboundMemberUpsert_Input"
+></input
+><output
+ message="tns:ASWMemberInboundMemberUpsert_Output"
+></output
+></operation
+><operation
+ name="ASWMemberInboundMemberQuery"
+><input
+ message="tns:ASWMemberInboundMemberQuery_Input"
+></input
+><output
+ message="tns:ASWMemberInboundMemberQuery_Output"
+></output
+></operation
+><operation
+ name="ASWMemberInboundMemberService"
+><input
+ message="tns:ASWMemberInboundMemberService_Input"
+></input
+><output
+ message="tns:ASWMemberInboundMemberService_Output"
+></output
+></operation
+></portType
+><binding
+ name="ASW_spcMember_spcInbound"
+ type="tns:ASW_spcMember_spcInbound"
+><soap:binding
+ transport="http://schemas.xmlsoap.org/soap/http"
+ style="document"
+></soap:binding
+><operation
+ name="ASWMemberInboundMemberUpsert"
+><soap:operation
+ soapAction="document/http://siebel.com/CustomUI:ASWMemberInboundMemberUpsert"
+></soap:operation
+><input
+><soap:body
+ use="literal"
+></soap:body
+></input
+><output
+><soap:body
+ use="literal"
+></soap:body
+></output
+></operation
+><operation
+ name="ASWMemberInboundMemberQuery"
+><soap:operation
+ soapAction="document/http://siebel.com/CustomUI:ASWMemberInboundMemberQuery"
+></soap:operation
+><input
+><soap:body
+ use="literal"
+></soap:body
+></input
+><output
+><soap:body
+ use="literal"
+></soap:body
+></output
+></operation
+><operation
+ name="ASWMemberInboundMemberService"
+><soap:operation
+ soapAction="document/http://siebel.com/CustomUI:ASWMemberInboundMemberService"
+></soap:operation
+><input
+><soap:body
+ use="literal"
+></soap:body
+></input
+><output
+><soap:body
+ use="literal"
+></soap:body
+></output
+></operation
+></binding
+><service
+ name="ASW_spcMember_spcInbound"
+><port
+ binding="tns:ASW_spcMember_spcInbound"
+ name="ASW_spcMember_spcInbound"
+><soap:address
+ location="http://10.32.64.220:8600/eai_anon_enu/start.swe?SWEExtSource=AnonWebService&amp;SWEExtCmd=Execute&amp;WSSOAP=1"
+></soap:address
+></port
+></service
+></definitions
+>

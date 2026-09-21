@@ -1,0 +1,25 @@
+# Conversion paths
+# Start date,2020-05-01
+# End date,2020-05-31
+# Path length,Greater than or equal to 1
+# Lookback window,30 days
+# Dimension,GA Channel
+# Selected model,Last click
+
+Conversions,Revenue,Label 1,Weight 1,Label 2,Weight 2,Label 3,Weight 3,Label 4,Weight 4
+51.0,0.0
+11.0,0.0,(Other),1.0
+9.0,0.0,Organic Search,1.0
+8.0,0.0,Paid Search,1.0
+3.0,0.0,Paid Search,0.0,Paid Search,1.0
+3.0,0.0,Direct,1.0
+3.0,0.0,Social,1.0
+3.0,0.0,Paid Search,1.0,Direct,0.0,Direct,0.0
+3.0,0.0,Paid Search,1.0,Direct,0.0
+2.0,0.0,Direct,0.0,Direct,1.0
+1.0,0.0,Direct,0.0,Direct,0.0,Direct,1.0
+1.0,0.0,Paid Search,1.0,Direct,0.0,Direct,0.0,Direct,0.0
+1.0,0.0,Paid Search,0.0,Paid Search,1.0,Direct,0.0
+1.0,0.0,(Other),0.0,(Other),1.0
+1.0,0.0,Paid Search,0.0,Paid Search,0.0,Paid Search,1.0
+1.0,0.0,Direct,0.0,Organic Search,1.0

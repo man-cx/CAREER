@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:ZZRegProduct_XML_IPInputRequest xmlns:ns1="http://0017210839-one-off.sap.com/YFPYSE8NY_">
+	<MessageHeader>
+		<CreationDateTime>2017-10-04T17:54:28.213228Z</CreationDateTime>
+	</MessageHeader>
+	<List>
+		<ZZ_Registered_Product>
+			<ReferenceDate>2017-12-31</ReferenceDate>
+			<WarrantyID>11</WarrantyID>
+			<Note>test notes</Note>
+			<maintain>N</maintain>
+			<StartDeliveryDate>2017-02-08</StartDeliveryDate>
+			<CustomerID>1002493</CustomerID>
+			<NetValue>193.9</NetValue>
+			<UnitofMeasure>EA</UnitofMeasure>
+			<Quantity>1</Quantity>
+			<ProductID>175310</ProductID>
+			<reg_product_desc>台灣製圓形緩降腳踏垃圾桶,25X60CM,20L,玫瑰金</reg_product_desc>
+			<ExternalID>00201IE63863</ExternalID>
+			<SerialID>00201IE63863S334509</SerialID>
+			<pricerite_customerid>002001071019001604</pricerite_customerid>
+		</ZZ_Registered_Product>
+		<ZZ_Registered_Product>
+			<ReferenceDate>2017-12-31</ReferenceDate>
+			<WarrantyID>11</WarrantyID>
+			<Note>test notes</Note>
+			<maintain>N</maintain>
+			<StartDeliveryDate>2017-02-07</StartDeliveryDate>
+			<CustomerID>1002493</CustomerID>
+			<NetValue>167.8</NetValue>
+			<UnitofMeasure>EA</UnitofMeasure>
+			<Quantity>2</Quantity>
+			<ProductID>175310</ProductID>
+			<reg_product_desc>#PADDIE方形摺椅,深啡色,EN12520,455WX322DX760HMM</reg_product_desc>
+			<ExternalID>00201IE63879</ExternalID>
+			<SerialID>00201IE63879S334515</SerialID>
+			<pricerite_customerid>002001071019001626</pricerite_customerid>
+		</ZZ_Registered_Product>
+	</List>
+</ns1:ZZRegProduct_XML_IPInputRequest>

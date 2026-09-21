@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:ZZCustomer_XML_IPInputRequest xmlns:ns1="http://0017210839-one-off.sap.com/YFPYSE8NY_">
+	<MessageHeader>
+		<CreationDateTime>2017-10-24T21:00:00Z</CreationDateTime>
+	</MessageHeader>
+	<List>
+		<ZZ_Customer>
+			<ExternalID>1</ExternalID>
+			<FirstName>TSUICHE LAN</FirstName>
+			<LastName>徐紫蘭</LastName>
+			<Title>Mrs.</Title>
+			<Gender>Female</Gender>
+			<Lastpurchasedate>19-11-2010 16:23</Lastpurchasedate>
+			<AccumulatedPurchaseAmount>506.8</AccumulatedPurchaseAmount>
+			<AccumulatedAmountfromDate>19-10-2007 13:16</AccumulatedAmountfromDate>
+			<MemberID>00112644-00-02</MemberID>
+			<MemberCategory>102</MemberCategory>
+			<MemberStatus>101</MemberStatus>
+			<MemberDatejoined>19-10-2007 13:16</MemberDatejoined>
+			<TotalMemberpoints>0</TotalMemberpoints>
+			<AvailableMemberpoints>0</AvailableMemberpoints>
+			<PointsExpiryDate>30-01-2017 0:00</PointsExpiryDate>
+			<MemberCardtype>101</MemberCardtype>
+			<PromotionMessage>Y</PromotionMessage>
+			<BirthdayDay>10</BirthdayDay>
+			<BirthdayMonth>12</BirthdayMonth>
+			<BirthdayYear>1964</BirthdayYear>
+			<HKID>D40364</HKID>
+			<SystemSource>101</SystemSource>
+			<MaritalStatus>Married</MaritalStatus>
+			<Occupation>Others</Occupation>
+		</ZZ_Customer>
+		<ZZ_Customer>
+			<ExternalID>2</ExternalID>
+			<FirstName>LEEMEI HAR</FirstName>
+			<LastName>李美霞</LastName>
+			<Title>Mrs.</Title>
+			<Gender>Female</Gender>
+			<Lastpurchasedate>04-11-2007 11:58</Lastpurchasedate>
+			<AccumulatedPurchaseAmount>83.8</AccumulatedPurchaseAmount>
+			<AccumulatedAmountfromDate>19-10-2007 13:32</AccumulatedAmountfromDate>
+			<MemberID>00112940-00-02</MemberID>
+			<MemberCategory>102</MemberCategory>
+			<MemberStatus>101</MemberStatus>
+			<MemberDatejoined>19-10-2007 13:32</MemberDatejoined>
+			<TotalMemberpoints>0</TotalMemberpoints>
+			<AvailableMemberpoints>0</AvailableMemberpoints>
+			<PointsExpiryDate>30-01-2017 0:00</PointsExpiryDate>
+			<MemberCardtype>101</MemberCardtype>
+			<PromotionMessage>Y</PromotionMessage>
+			<HKID>D39940</HKID>
+			<SystemSource>101</SystemSource>
+			<MaritalStatus>Married</MaritalStatus>
+			<Occupation>Others</Occupation>
+		</ZZ_Customer>
+		<ZZ_Customer>
+			<ExternalID>3</ExternalID>
+			<FirstName>LINSUET CHING</FirstName>
+			<LastName>練雪清</LastName>
+			<Title>Mrs.</Title>
+			<Gender>Female</Gender>
+			<Lastpurchasedate>19-11-2007 13:55</Lastpurchasedate>
+			<AccumulatedPurchaseAmount>12.9</AccumulatedPurchaseAmount>
+			<AccumulatedAmountfromDate>19-10-2007 13:32</AccumulatedAmountfromDate>
+			<MemberID>00112963-00-02</MemberID>
+			<MemberCategory>102</MemberCategory>
+			<MemberStatus>101</MemberStatus>
+			<MemberDatejoined>19-10-2007 13:32</MemberDatejoined>
+			<TotalMemberpoints>0</TotalMemberpoints>
+			<AvailableMemberpoints>0</AvailableMemberpoints>
+			<PointsExpiryDate>30-01-2017 0:00</PointsExpiryDate>
+			<MemberCardtype>101</MemberCardtype>
+			<PromotionMessage>Y</PromotionMessage>
+			<BirthdayDay>1</BirthdayDay>
+			<BirthdayMonth>10</BirthdayMonth>
+			<BirthdayYear>1961</BirthdayYear>
+			<HKID>304548</HKID>
+			<SystemSource>101</SystemSource>
+			<MaritalStatus>Married</MaritalStatus>
+			<Occupation>Others</Occupation>
+		</ZZ_Customer>
+		<ZZ_Customer>
+			<ExternalID>4</ExternalID>
+			<FirstName>TONGYAT HUNG</FirstName>
+			<LastName>湯日洪</LastName>
+			<Title>Mr.</Title>
+			<Gender>Male</Gender>
+			<Lastpurchasedate>19-10-2007 17:03</Lastpurchasedate>
+			<AccumulatedPurchaseAmount>159.5</AccumulatedPurchaseAmount>
+			<AccumulatedAmountfromDate>19-10-2007 14:29</AccumulatedAmountfromDate>
+			<MemberID>00114175-00-02</MemberID>
+			<MemberCategory>102</MemberCategory>
+			<MemberStatus>101</MemberStatus>
+			<MemberDatejoined>19-10-2007 14:29</MemberDatejoined>
+			<TotalMemberpoints>0</TotalMemberpoints>
+			<AvailableMemberpoints>0</AvailableMemberpoints>
+			<PointsExpiryDate>30-01-2017 0:00</PointsExpiryDate>
+			<MemberCardtype>101</MemberCardtype>
+			<PromotionMessage>Y</PromotionMessage>
+			<BirthdayDay>30</BirthdayDay>
+			<BirthdayMonth>7</BirthdayMonth>
+			<HKID>E62804</HKID>
+			<SystemSource>101</SystemSource>
+			<MaritalStatus>Married</MaritalStatus>
+			<Occupation>Others</Occupation>
+		</ZZ_Customer>
+		<ZZ_Customer>
+			<ExternalID>5</ExternalID>
+			<FirstName>WONGYIN FONG JACKIE</FirstName>
+			<LastName>王燕芳</LastName>
+			<Title>Ms.</Title>
+			<Gender>Female</Gender>
+			<Lastpurchasedate>23-11-2008 14:55</Lastpurchasedate>
+			<AccumulatedPurchaseAmount>34.6</AccumulatedPurchaseAmount>
+			<AccumulatedAmountfromDate>19-10-2007 14:40</AccumulatedAmountfromDate>
+			<MemberID>00114318-00-02</MemberID>
+			<MemberCategory>102</MemberCategory>
+			<MemberStatus>101</MemberStatus>
+			<MemberDatejoined>19-10-2007 14:40</MemberDatejoined>
+			<TotalMemberpoints>0</TotalMemberpoints>
+			<AvailableMemberpoints>0</AvailableMemberpoints>
+			<PointsExpiryDate>30-01-2017 0:00</PointsExpiryDate>
+			<MemberCardtype>101</MemberCardtype>
+			<PromotionMessage>Y</PromotionMessage>
+			<BirthdayDay>24</BirthdayDay>
+			<BirthdayMonth>2</BirthdayMonth>
+			<BirthdayYear>1965</BirthdayYear>
+			<HKID>G5346</HKID>
+			<SystemSource>101</SystemSource>
+			<MaritalStatus>Single</MaritalStatus>
+			<Occupation>Others</Occupation>
+		</ZZ_Customer>
+		<ZZ_Customer>
+			<ExternalID>6</ExternalID>
+			<FirstName>CHOWGEORGE</FirstName>
+			<LastName>周佐治</LastName>
+			<Title>Mr.</Title>
+			<Gender>Male</Gender>
+			<Lastpurchasedate>04-09-2013 21:37</Lastpurchasedate>
+			<AccumulatedPurchaseAmount>2343.4</AccumulatedPurchaseAmount>
+			<AccumulatedAmountfromDate>19-10-2007 15:05</AccumulatedAmountfromDate>
+			<MemberID>00114531-00-02</MemberID>
+			<MemberCategory>102</MemberCategory>
+			<MemberStatus>101</MemberStatus>
+			<MemberDatejoined>19-10-2007 15:05</MemberDatejoined>
+			<TotalMemberpoints>0</TotalMemberpoints>
+			<AvailableMemberpoints>0</AvailableMemberpoints>
+			<PointsExpiryDate>30-01-2017 0:00</PointsExpiryDate>
+			<MemberCardtype>101</MemberCardtype>
+			<PromotionMessage>Y</PromotionMessage>
+			<BirthdayDay>17</BirthdayDay>
+			<BirthdayMonth>10</BirthdayMonth>
+			<HKID>D25852</HKID>
+			<SystemSource>101</SystemSource>
+			<MaritalStatus>Married</MaritalStatus>
+			<Occupation>Others</Occupation>
+		</ZZ_Customer>
+		<ZZ_Customer>
+			<ExternalID>7</ExternalID>
+			<FirstName>LEEPUI YAN</FirstName>
+			<LastName>李佩欣</LastName>
+			<Title>Mrs.</Title>
+			<Gender>Female</Gender>
+			<Lastpurchasedate>27-10-2008 16:01</Lastpurchasedate>
+			<AccumulatedPurchaseAmount>110.7</AccumulatedPurchaseAmount>
+			<AccumulatedAmountfromDate>19-10-2007 15:18</AccumulatedAmountfromDate>
+			<EshopAccount>alisonhk@gmail.com</EshopAccount>
+			<MemberID>00114695-00-02</MemberID>
+			<MemberCategory>102</MemberCategory>
+			<MemberStatus>101</MemberStatus>
+			<MemberDatejoined>19-10-2007 15:18</MemberDatejoined>
+			<TotalMemberpoints>0</TotalMemberpoints>
+			<AvailableMemberpoints>0</AvailableMemberpoints>
+			<PointsExpiryDate>30-01-2017 0:00</PointsExpiryDate>
+			<MemberCardtype>101</MemberCardtype>
+			<PromotionMessage>Y</PromotionMessage>
+			<BirthdayDay>5</BirthdayDay>
+			<BirthdayMonth>7</BirthdayMonth>
+			<BirthdayYear>1975</BirthdayYear>
+			<HKID>K42112</HKID>
+			<SystemSource>101</SystemSource>
+			<MaritalStatus>Married</MaritalStatus>
+			<Occupation>Others</Occupation>
+		</ZZ_Customer>
+		<ZZ_Customer>
+			<ExternalID>8</ExternalID>
+			<FirstName> *VIP* CHANSZE MAN SUZANNE</FirstName>
+			<LastName>陳思敏</LastName>
+			<Title>Ms.</Title>
+			<Gender>Female</Gender>
+			<Lastpurchasedate>19-03-2016 15:16</Lastpurchasedate>
+			<AccumulatedPurchaseAmount>310.8</AccumulatedPurchaseAmount>
+			<AccumulatedAmountfromDate>19-10-2007 17:50</AccumulatedAmountfromDate>
+			<MemberID>00117133-00-11</MemberID>
+			<MemberCategory>102</MemberCategory>
+			<MemberStatus>101</MemberStatus>
+			<MemberDatejoined>19-10-2007 17:50</MemberDatejoined>
+			<TotalMemberpoints>673</TotalMemberpoints>
+			<AvailableMemberpoints>673</AvailableMemberpoints>
+			<PointsExpiryDate>30-01-2017 0:00</PointsExpiryDate>
+			<MemberCardtype>101</MemberCardtype>
+			<PromotionMessage>Y</PromotionMessage>
+			<BirthdayDay>18</BirthdayDay>
+			<BirthdayMonth>4</BirthdayMonth>
+			<HKID>D83753</HKID>
+			<SystemSource>101</SystemSource>
+			<MaritalStatus>Single</MaritalStatus>
+			<Occupation>Others</Occupation>
+		</ZZ_Customer>
+		<ZZ_Customer>
+			<ExternalID>9</ExternalID>
+			<FirstName>CHOWBING HO</FirstName>
+			<LastName>周炳豪</LastName>
+			<Title>Mr.</Title>
+			<Gender>Male</Gender>
+			<Lastpurchasedate>19-12-2010 14:31</Lastpurchasedate>
+			<AccumulatedPurchaseAmount>655.3</AccumulatedPurchaseAmount>
+			<AccumulatedAmountfromDate>19-10-2007 18:46</AccumulatedAmountfromDate>
+			<MemberID>00117914-00-03</MemberID>
+			<MemberCategory>102</MemberCategory>
+			<MemberStatus>101</MemberStatus>
+			<MemberDatejoined>19-10-2007 18:46</MemberDatejoined>
+			<TotalMemberpoints>0</TotalMemberpoints>
+			<AvailableMemberpoints>0</AvailableMemberpoints>
+			<PointsExpiryDate>30-01-2017 0:00</PointsExpiryDate>
+			<MemberCardtype>101</MemberCardtype>
+			<PromotionMessage>Y</PromotionMessage>
+			<BirthdayDay>21</BirthdayDay>
+			<BirthdayMonth>1</BirthdayMonth>
+			<BirthdayYear>1975</BirthdayYear>
+			<HKID>K36989</HKID>
+			<SystemSource>101</SystemSource>
+			<MaritalStatus>Single</MaritalStatus>
+			<Occupation>Others</Occupation>
+		</ZZ_Customer>
+	</List>
+</ns1:ZZCustomer_XML_IPInputRequest>

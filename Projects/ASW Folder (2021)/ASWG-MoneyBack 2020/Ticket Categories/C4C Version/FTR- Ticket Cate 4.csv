@@ -1,0 +1,277 @@
+﻿<Category ID>,<Category Type>,<Parent Category ID>,<Language1>,<Name1>,<Description1>
+CA_2001,1,,EN,Apple repair Centre,Apple repair Centre
+CA_2002,1,,EN,eStore,eStore
+CA_2003,1,,EN,In-store,In-store
+CA_2004,1,,EN,Moneyback,Moneyback
+CA_2005,2,CA_2001,EN,Complaint,Complaint
+CA_2006,5,CA_2005,EN,CentreOperation - Service Attitude,CentreOperation - Service Attitude
+CA_2007,5,CA_2005,EN,CentreOperation - Service Handling,CentreOperation - Service Handling
+CA_2008,5,CA_2005,EN,CentreOperation - Shopping Environment,CentreOperation - Shopping Environment
+CA_2009,5,CA_2005,EN,CentreOperation - Injury/ Asset Damage,CentreOperation - Injury/ Asset Damage
+CA_2010,2,CA_2001,EN,General ,General 
+CA_2011,5,CA_2010,EN,Other - Wrong Price/Offer,Other - Wrong Price/Offer
+CA_2012,5,CA_2010,EN,Other - Policy,Other - Policy
+CA_2013,5,CA_2010,EN,Other – Trading Descriptions Ordinance,Other – Trading Descriptions Ordinance
+CA_2014,5,CA_2010,EN,Other - Others,Other - Others
+CA_2015,2,CA_2001,EN,iCoin issues,iCoin issues
+CA_2016,5,CA_2015,EN,System - iClub System Issue,System - iClub System Issue
+CA_2017,5,CA_2015,EN,Earn issue,Earn issue
+CA_2018,5,CA_2015,EN,Redeem issue,Redeem issue
+CA_2019,2,CA_2001,EN,ITDepartment,ITDepartment
+CA_2020,5,CA_2019,EN,System - EJ order,System - EJ order
+CA_2021,5,CA_2019,EN,System - Others,System - Others
+CA_2022,2,CA_2001,EN,Merchandising,Merchandising
+CA_2023,5,CA_2022,EN,Agent Product Quality,Agent Product Quality
+CA_2024,5,CA_2022,EN,Agent Product Quality,Agent Product Quality
+CA_2025,5,CA_2022,EN,Wrong product information (TDO),Wrong product information (TDO)
+CA_2026,2,CA_2001,EN,Point issues,Point issues
+CA_2027,5,CA_2026,EN,System - MoneyBack Points,System - MoneyBack Points
+CA_2028,5,CA_2026,EN,Earn issue,Earn issue
+CA_2029,5,CA_2026,EN,Redeem issue,Redeem issue
+CA_2030,2,CA_2001,EN,Refund / Replacement,Refund / Replacement
+CA_2031,5,CA_2030,EN,Refund Status Checking,Refund Status Checking
+CA_2032,2,CA_2001,EN,RetailOperation - Store,RetailOperation - Store
+CA_2033,5,CA_2032,EN,Reprint sales memo,Reprint sales memo
+CA_2034,5,CA_2032,EN,Order cancelation,Order cancelation
+CA_2035,2,CA_2002,EN,Compliment,Compliment
+CA_2036,5,CA_2035,EN,Hotline,Hotline
+CA_2037,5,CA_2035,EN,CCD,CCD
+CA_2038,5,CA_2035,EN,Delivery,Delivery
+CA_2039,5,CA_2035,EN,Installation,Installation
+CA_2040,5,CA_2035,EN,Proteam,Proteam
+CA_2041,2,CA_2002,EN,CustomerCare - CCD,CustomerCare - CCD
+CA_2042,5,CA_2041,EN,Service Attitude,Service Attitude
+CA_2043,5,CA_2041,EN,Service Handling,Service Handling
+CA_2044,5,CA_2041,EN,Late/No Response,Late/No Response
+CA_2045,2,CA_2002,EN,CustomerCare - HL,CustomerCare - HL
+CA_2046,5,CA_2045,EN,Hotline Busy,Hotline Busy
+CA_2047,5,CA_2045,EN,Service Attitude,Service Attitude
+CA_2048,5,CA_2045,EN,Service Handling,Service Handling
+CA_2049,5,CA_2045,EN,Late/No Response,Late/No Response
+CA_2050,2,CA_2002,EN,eCoupon issues,eCoupon issues
+CA_2051,5,CA_2050,EN,Usage,Usage
+CA_2052,5,CA_2050,EN,Registration,Registration
+CA_2053,5,CA_2050,EN,Extension,Extension
+CA_2054,5,CA_2050,EN,invalid,invalid
+CA_2055,2,CA_2002,EN,General,General
+CA_2056,5,CA_2055,EN,General Enquiry,General Enquiry
+CA_2057,5,CA_2055,EN,Resend Token,Resend Token
+CA_2058,5,CA_2055,EN,Other - Wrong Price/Offer,Other - Wrong Price/Offer
+CA_2059,5,CA_2055,EN,Other - Policy,Other - Policy
+CA_2060,5,CA_2055,EN,Other – Trading Descriptions Ordinance,Other – Trading Descriptions Ordinance
+CA_2061,5,CA_2055,EN,Other - Others,Other - Others
+CA_2062,2,CA_2002,EN,iCoin issues,iCoin issues
+CA_2063,5,CA_2062,EN,System - iClub System Issue,System - iClub System Issue
+CA_2064,5,CA_2062,EN,Earn issue,Earn issue
+CA_2065,5,CA_2062,EN,Redeem issue,Redeem issue
+CA_2066,2,CA_2002,EN,ITDepartment,ITDepartment
+CA_2067,5,CA_2066,EN,System - EJ order/ duplicated payment,System - EJ order/ duplicated payment
+CA_2068,5,CA_2066,EN,System - Others,System - Others
+CA_2069,2,CA_2002,EN,Marketing,Marketing
+CA_2070,5,CA_2069,EN,Campaigns/Events/Promotion,Campaigns/Events/Promotion
+CA_2071,5,CA_2069,EN,Bank promotion,Bank promotion
+CA_2072,2,CA_2002,EN,Merchandising,Merchandising
+CA_2073,5,CA_2072,EN,Own Product Quality,Own Product Quality
+CA_2074,5,CA_2072,EN,Own Product Quality,Own Product Quality
+CA_2075,5,CA_2072,EN,Agent Product Quality,Agent Product Quality
+CA_2076,5,CA_2072,EN,Agent Product Quality,Agent Product Quality
+CA_2077,5,CA_2072,EN,Agent Service Handling,Agent Service Handling
+CA_2078,5,CA_2072,EN,Wrong product information (TDO),Wrong product information (TDO)
+CA_2079,2,CA_2002,EN,MobileSIM,MobileSIM
+CA_2080,5,CA_2079,EN,4G/ 5G,4G/ 5G
+CA_2081,5,CA_2079,EN,HAHA SIM,HAHA SIM
+CA_2082,5,CA_2079,EN,Chat Time SIM,Chat Time SIM
+CA_2083,2,CA_2002,EN,Point issues,Point issues
+CA_2084,5,CA_2083,EN,Earn issue,Earn issue
+CA_2085,5,CA_2083,EN,Redeem issue,Redeem issue
+CA_2086,2,CA_2002,EN,Refund / Replacement,Refund / Replacement
+CA_2087,5,CA_2086,EN,Refund Status Checking,Refund Status Checking
+CA_2088,5,CA_2086,EN,Refund Status Checking,Refund Status Checking
+CA_2089,5,CA_2086,EN,Order Quantity / Item / Duplication,Order Quantity / Item / Duplication
+CA_2090,5,CA_2086,EN,Late Delivery / Damage ,Late Delivery / Damage 
+CA_2091,5,CA_2086,EN,Product Quality - AB,Product Quality - AB
+CA_2092,5,CA_2086,EN,Product Quality - OB,Product Quality - OB
+CA_2093,5,CA_2086,EN,Product Description,Product Description
+CA_2094,5,CA_2086,EN,Premium Issue ,Premium Issue 
+CA_2095,5,CA_2086,EN,Discount Issue ,Discount Issue 
+CA_2096,5,CA_2086,EN,超賣訂單 Oversold Order,超賣訂單 Oversold Order
+CA_2097,5,CA_2086,EN,Abnormal Order,Abnormal Order
+CA_2098,5,CA_2086,EN,China Return Order,China Return Order
+CA_2099,5,CA_2086,EN,Tax Issue ,Tax Issue 
+CA_2100,5,CA_2086,EN,Charged delivery fee,Charged delivery fee
+CA_2101,5,CA_2086,EN,C&C No Show Order,C&C No Show Order
+CA_2102,5,CA_2086,EN,No Order Confirmation ,No Order Confirmation 
+CA_2103,5,CA_2086,EN,Fraud Case ,Fraud Case 
+CA_2104,5,CA_2086,EN,Test Case ,Test Case 
+CA_2105,5,CA_2086,EN,Others,Others
+CA_2106,2,CA_2002,EN,RetailOperation - Store,RetailOperation - Store
+CA_2107,5,CA_2106,EN,Service Attitude,Service Attitude
+CA_2108,5,CA_2106,EN,Service Handling,Service Handling
+CA_2109,5,CA_2106,EN,Injury / Asset Damage,Injury / Asset Damage
+CA_2110,5,CA_2106,EN,Shopping Environment,Shopping Environment
+CA_2111,5,CA_2106,EN,Wrong product information (TDO),Wrong product information (TDO)
+CA_2112,5,CA_2106,EN,Amend order info,Amend order info
+CA_2113,5,CA_2106,EN,Order cancelation,Order cancelation
+CA_2114,5,CA_2106,EN,Reprint sales memo,Reprint sales memo
+CA_2115,2,CA_2002,EN,ServiceExperience - EW,ServiceExperience - EW
+CA_2116,5,CA_2115,EN,Policy & Reimbursement,Policy & Reimbursement
+CA_2117,5,CA_2115,EN,Sales Misconduct,Sales Misconduct
+CA_2118,5,CA_2115,EN,Hotline Service Attitude,Hotline Service Attitude
+CA_2119,5,CA_2115,EN,Hotline Service Handling,Hotline Service Handling
+CA_2120,5,CA_2115,EN,Wrong Price/Offer,Wrong Price/Offer
+CA_2121,5,CA_2115,EN,Resend EW T&C,Resend EW T&C
+CA_2122,2,CA_2002,EN,ServiceOperation - IN,ServiceOperation - IN
+CA_2123,5,CA_2122,EN,Unpunctual/No Show,Unpunctual/No Show
+CA_2124,5,CA_2122,EN,Service Attitude,Service Attitude
+CA_2125,5,CA_2122,EN,Service Handling,Service Handling
+CA_2126,5,CA_2122,EN,Service Handling,Service Handling
+CA_2127,5,CA_2122,EN,Asset Damage/Stolen,Asset Damage/Stolen
+CA_2128,5,CA_2122,EN,Charges,Charges
+CA_2129,2,CA_2002,EN,ServiceOperation - MA,ServiceOperation - MA
+CA_2130,5,CA_2129,EN,Unpunctual/No Show,Unpunctual/No Show
+CA_2131,5,CA_2129,EN,Service Attitude,Service Attitude
+CA_2132,5,CA_2129,EN,Service Handling,Service Handling
+CA_2133,5,CA_2129,EN,Asset Damage/Stolen,Asset Damage/Stolen
+CA_2134,5,CA_2129,EN,Charges,Charges
+CA_2135,2,CA_2002,EN,SupplyChain,SupplyChain
+CA_2136,5,CA_2135,EN,No Stock/Shipment Delay,No Stock/Shipment Delay
+CA_2137,5,CA_2135,EN,Service Handling,Service Handling
+CA_2138,2,CA_2002,EN,Check-out,Check-out
+CA_2139,5,CA_2138,EN,No confirmation email,No confirmation email
+CA_2140,5,CA_2138,EN,No order number,No order number
+CA_2141,5,CA_2138,EN,Payment Issue,Payment Issue
+CA_2142,5,CA_2138,EN,Technical glitch,Technical glitch
+CA_2143,2,CA_2002,EN,Warehouse,Warehouse
+CA_2144,5,CA_2143,EN,Delivery - Unpunctual/No Show,Delivery - Unpunctual/No Show
+CA_2145,5,CA_2143,EN,Delivery - Service Attitude,Delivery - Service Attitude
+CA_2146,5,CA_2143,EN,Delivery - Service Handling,Delivery - Service Handling
+CA_2147,5,CA_2143,EN,Delivery - Charges,Delivery - Charges
+CA_2148,5,CA_2143,EN,Delivery - Asset Damage/Stolen,Delivery - Asset Damage/Stolen
+CA_2149,5,CA_2143,EN,Service Handling,Service Handling
+CA_2150,2,CA_2003,EN,Compliment,Compliment
+CA_2151,5,CA_2150,EN,Hotline,Hotline
+CA_2152,5,CA_2150,EN,CCD,CCD
+CA_2153,5,CA_2150,EN,Delivery,Delivery
+CA_2154,5,CA_2150,EN,Installation,Installation
+CA_2155,5,CA_2150,EN,Proteam,Proteam
+CA_2156,2,CA_2003,EN,Coupon issues,Coupon issues
+CA_2157,5,CA_2156,EN,Usage,Usage
+CA_2158,5,CA_2156,EN,Registration,Registration
+CA_2159,5,CA_2156,EN,Extension,Extension
+CA_2160,5,CA_2156,EN,invalid,invalid
+CA_2161,2,CA_2003,EN,CustomerCare - CCD,CustomerCare - CCD
+CA_2162,5,CA_2161,EN,CCD - Service Attitude,CCD - Service Attitude
+CA_2163,5,CA_2161,EN,CCD - Service Handling,CCD - Service Handling
+CA_2164,5,CA_2161,EN,CCD - Late/No Response,CCD - Late/No Response
+CA_2165,2,CA_2003,EN,CustomerCare - HL,CustomerCare - HL
+CA_2166,5,CA_2165,EN,Hotline - Hotline Busy,Hotline - Hotline Busy
+CA_2167,5,CA_2165,EN,Hotline - Service Attitude,Hotline - Service Attitude
+CA_2168,5,CA_2165,EN,Hotline - Service Handling,Hotline - Service Handling
+CA_2169,5,CA_2165,EN,Hotline - Late/No Response,Hotline - Late/No Response
+CA_2170,2,CA_2003,EN,eCoupon issues,eCoupon issues
+CA_2171,5,CA_2170,EN,Usage,Usage
+CA_2172,5,CA_2170,EN,Registration,Registration
+CA_2173,5,CA_2170,EN,Extension,Extension
+CA_2174,5,CA_2170,EN,invalid,invalid
+CA_2175,2,CA_2003,EN,Fulfillment,Fulfillment
+CA_2176,5,CA_2175,EN,SupplyChain - No Stock/Shipment Delay,SupplyChain - No Stock/Shipment Delay
+CA_2177,5,CA_2175,EN,SupplyChain - Service Handling,SupplyChain - Service Handling
+CA_2178,5,CA_2175,EN,Warehouse - Delivery - Unpunctual,Warehouse - Delivery - Unpunctual
+CA_2179,5,CA_2175,EN,Warehouse - Delivery - Service Attitude,Warehouse - Delivery - Service Attitude
+CA_2180,5,CA_2175,EN,Warehouse - Delivery - Service Handling,Warehouse - Delivery - Service Handling
+CA_2181,5,CA_2175,EN,Warehouse - Delivery - Charges,Warehouse - Delivery - Charges
+CA_2182,5,CA_2175,EN,Warehouse - Delivery - Asset Damage/Loss,Warehouse - Delivery - Asset Damage/Loss
+CA_2183,5,CA_2175,EN,Warehouse - Service Handling,Warehouse - Service Handling
+CA_2184,2,CA_2003,EN,General,General
+CA_2185,5,CA_2184,EN,General Enquiry,General Enquiry
+CA_2186,5,CA_2184,EN,Resend Token,Resend Token
+CA_2187,5,CA_2184,EN,Other - Wrong Price/Offer,Other - Wrong Price/Offer
+CA_2188,5,CA_2184,EN,Other - Policy,Other - Policy
+CA_2189,5,CA_2184,EN,Other – Trading Descriptions Ordinance,Other – Trading Descriptions Ordinance
+CA_2190,5,CA_2184,EN,Other - Others,Other - Others
+CA_2191,2,CA_2003,EN,iCoin issues,iCoin issues
+CA_2192,5,CA_2191,EN,System - iClub System Issue,System - iClub System Issue
+CA_2193,5,CA_2191,EN,Earn issue,Earn issue
+CA_2194,5,CA_2191,EN,Redeem issue,Redeem issue
+CA_2195,2,CA_2003,EN,ITDepartment,ITDepartment
+CA_2196,5,CA_2195,EN,System - EJ order,System - EJ order
+CA_2197,5,CA_2195,EN,System - Others,System - Others
+CA_2198,2,CA_2003,EN,MobileSIM,MobileSIM
+CA_2199,5,CA_2198,EN,4G/ 5G,4G/ 5G
+CA_2200,5,CA_2198,EN,HAHA SIM,HAHA SIM
+CA_2201,5,CA_2198,EN,Chat Time SIM,Chat Time SIM
+CA_2202,2,CA_2003,EN,Point issues,Point issues
+CA_2203,5,CA_2202,EN,Earn issue,Earn issue
+CA_2204,5,CA_2202,EN,Redeem issue,Redeem issue
+CA_2205,2,CA_2003,EN,Products,Products
+CA_2206,5,CA_2205,EN,Own Product Quality,Own Product Quality
+CA_2207,5,CA_2205,EN,Own Product Quality,Own Product Quality
+CA_2208,5,CA_2205,EN,Agent Product Quality,Agent Product Quality
+CA_2209,5,CA_2205,EN,Agent Product Quality,Agent Product Quality
+CA_2210,5,CA_2205,EN,Agent Service Handling,Agent Service Handling
+CA_2211,5,CA_2205,EN,Wrong product information (TDO),Wrong product information (TDO)
+CA_2212,2,CA_2003,EN,Promotion,Promotion
+CA_2213,5,CA_2212,EN,Campaigns/Events/Promotion,Campaigns/Events/Promotion
+CA_2214,5,CA_2212,EN,Bank promotion,Bank promotion
+CA_2215,2,CA_2003,EN,Refund / Exchange,Refund / Exchange
+CA_2216,5,CA_2215,EN,Refund Status Checking,Refund Status Checking
+CA_2217,2,CA_2003,EN,RetailOperation - Store,RetailOperation - Store
+CA_2218,5,CA_2217,EN,Service Attitude,Service Attitude
+CA_2219,5,CA_2217,EN,Service Handling,Service Handling
+CA_2220,5,CA_2217,EN,Injury / Asset Damage,Injury / Asset Damage
+CA_2221,5,CA_2217,EN,Shopping Environment,Shopping Environment
+CA_2222,5,CA_2217,EN,Wrong product information (TDO),Wrong product information (TDO)
+CA_2223,5,CA_2217,EN,Amend order info,Amend order info
+CA_2224,5,CA_2217,EN,Order cancelation,Order cancelation
+CA_2225,5,CA_2217,EN,Reprint sales memo,Reprint sales memo
+CA_2226,2,CA_2003,EN,ServiceExperience - EW,ServiceExperience - EW
+CA_2227,5,CA_2226,EN,Policy & Reimbursement,Policy & Reimbursement
+CA_2228,5,CA_2226,EN,Sales Misconduct,Sales Misconduct
+CA_2229,5,CA_2226,EN,Hotline Service Attitude,Hotline Service Attitude
+CA_2230,5,CA_2226,EN,Hotline Service Handling,Hotline Service Handling
+CA_2231,5,CA_2226,EN,Wrong Price/Offer,Wrong Price/Offer
+CA_2232,5,CA_2226,EN,Resend EW T&C,Resend EW T&C
+CA_2233,2,CA_2003,EN,ServiceOperation - IN,ServiceOperation - IN
+CA_2234,5,CA_2233,EN,Unpunctual/No Show,Unpunctual/No Show
+CA_2235,5,CA_2233,EN,Service Attitude,Service Attitude
+CA_2236,5,CA_2233,EN,Service Handling,Service Handling
+CA_2237,5,CA_2233,EN,Service Handling,Service Handling
+CA_2238,5,CA_2233,EN,Asset Damage/Stolen,Asset Damage/Stolen
+CA_2239,5,CA_2233,EN,Charges,Charges
+CA_2240,2,CA_2003,EN,ServiceOperation - MA,ServiceOperation - MA
+CA_2241,5,CA_2240,EN,Unpunctual/No Show,Unpunctual/No Show
+CA_2242,5,CA_2240,EN,Service Attitude,Service Attitude
+CA_2243,5,CA_2240,EN,Service Handling,Service Handling
+CA_2244,5,CA_2240,EN,Asset Damage/Stolen,Asset Damage/Stolen
+CA_2245,5,CA_2240,EN,Charges,Charges
+CA_2246,2,CA_2004,EN,Member Benefits,Member Benefits
+CA_2247,5,CA_2246,EN,iClub Promo in eStore,iClub Promo in eStore
+CA_2248,5,CA_2246,EN,iClub Promo in in-store,iClub Promo in in-store
+CA_2249,5,CA_2246,EN,MB Promo in eStore,MB Promo in eStore
+CA_2250,5,CA_2246,EN,MB Promo in in-store,MB Promo in in-store
+CA_2251,2,CA_2004,EN,Account Issues,Account Issues
+CA_2252,5,CA_2251,EN,Update Profile - eStore,Update Profile - eStore
+CA_2253,5,CA_2251,EN,Update Profile - Retail,Update Profile - Retail
+CA_2254,1,,EN,Corporate,Corporate
+CA_2255,2,CA_2254,EN,General,General
+CA_2256,5,CA_2255,EN,General Enquiry,General Enquiry
+RC_2001,6,,EN,Refund,Refund
+RC_2002,6,,EN,Replacement,Replacement
+RC_2003,6,,EN,Verbal,Verbal
+RC_2004,6,,EN,Written,Written
+RC_2005,6,,EN,Compensation,Compensation
+RC_2006,6,,EN,Proposed Settlement,Proposed Settlement
+RC_2007,6,,EN,Replacement / Change Model,Replacement / Change Model
+RC_2008,6,,EN,Proposed settlement (Verbal),Proposed settlement (Verbal)
+RC_2009,6,,EN,Proposed settlement (Written),Proposed settlement (Written)
+RC_2010,6,,EN,Esculated to 3rd Party,Esculated to 3rd Party
+RC_2011,6,,EN,Refund-by eVoucher,Refund-by eVoucher
+RC_2012,6,,EN,Refund-by eCoupon,Refund-by eCoupon
+RC_2013,6,,EN,Refund by MB Point,Refund by MB Point
+RC_2014,6,,EN,Refund to original account,Refund to original account
+RC_2015,6,,EN,Refund by Cash,Refund by Cash
+RC_2016,6,,EN,Refund by Gift Voucher,Refund by Gift Voucher
+RC_2017,6,,EN,Exchange for same value products,Exchange for same value products
+RC_2018,6,,EN,Adjust eStamp,Adjust eStamp
+RC_2019,6,,EN,Adjust MB point,Adjust MB point
+RC_2020,6,,EN,Unreach,Unreach

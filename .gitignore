@@ -21,6 +21,12 @@ node_modules/
 # Large binaries — keep local, not in git
 *.mov
 *.mp4
+*.m4v
+*.avi
+*.mkv
+*.m4a
+*.mp3
+*.wav
 *.jpg
 *.jpeg
 *.png
@@ -39,3 +45,4 @@ node_modules/
 *.tar
 *.gz
 *.7z
+*.exe
