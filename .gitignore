@@ -1,6 +1,4 @@
 .DS_Store
-.claude/*
-!.claude/skills/
 
 # Python
 __pycache__/
@@ -20,7 +18,7 @@ node_modules/
 *.pfx
 *.crt
 
-# Large binaries (career archive — keep local, not in git)
+# Large binaries — keep local, not in git
 *.mov
 *.mp4
 *.jpg
@@ -41,9 +39,3 @@ node_modules/
 *.tar
 *.gz
 *.7z
-
-# Large data folders (local-only, not versioned)
-00-Incoming/Man-experiences/
-00-Incoming/ZAN/
-knowledge/Man-Learning/
-88-outgoing/sent/
